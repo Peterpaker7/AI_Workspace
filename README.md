@@ -16,6 +16,7 @@ A structured collection of my AI/ML learning journey — covering Statistics, Da
 | `06_Hyperparameter_Tuning` | GridSearchCV, Classification Tuning |
 | `07_Projects` | HOPE AI, Small Projects, Extra Assignments |
 | `08_Advanced_ML` | Ensemble Methods, Advanced Pipelines |
+| `09_Deep Learning` | CNN,ANN (Hand Written Dataset),Object_Tracking |
 
 ---
 
