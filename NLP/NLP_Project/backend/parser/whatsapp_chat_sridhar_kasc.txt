@@ -1,0 +1,1898 @@
+03/07/25, 7:36 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+22/07/25, 8:52 pm - MUKESH.K.A: Enku tower low vahh iruthuchu daaa atha pesamothe cut aiduchu
+22/07/25, 9:00 pm - Srithar KASC: Ok da
+26/07/25, 9:21 pm - MUKESH.K.A: <Media omitted>
+26/07/25, 9:24 pm - Srithar KASC: Ok da pottru
+26/07/25, 9:24 pm - Srithar KASC: Nee ethuvum pesala
+26/07/25, 10:48 pm - Srithar KASC: https://open.spotify.com/track/0N4pXcGynUD4DosD9XWIsW?si=ztqkl49JSF2syiS-qweh1w
+26/07/25, 11:53 pm - MUKESH.K.A: yeaa ethu kuda pannalam daa
+27/07/25, 7:24 am - Srithar KASC: Ok mudi chiduvom
+30/07/25, 4:32 pm - MUKESH.K.A: PST Assignment mudichidu daaa
+30/07/25, 4:32 pm - MUKESH.K.A: Na mudichiten..!
+30/07/25, 6:31 pm - Srithar KASC: Illa da Sema thukkam
+30/07/25, 6:31 pm - Srithar KASC: Ipa dhan enthirichen
+30/07/25, 6:32 pm - Srithar KASC: Typoren
+30/07/25, 6:38 pm - MUKESH.K.A: Serii poitu vanthu mudika parru daaah
+31/07/25, 11:28 pm - MUKESH.K.A: Link send pannudaaa..! English
+31/07/25, 11:39 pm - Srithar KASC: Trio Group irruku da
+01/08/25, 12:26 am - Srithar KASC: https://youtu.be/z2-RcD2iwkY?si=x-nVMfNw19aInHxt
+02/08/25, 7:06 pm - MUKESH.K.A: I will call you back as soon as possible dude
+02/08/25, 10:25 pm - Srithar KASC: Sure
+03/08/25, 6:34 am - MUKESH.K.A: Na thugiten daa
+04/08/25, 7:58 pm - MUKESH.K.A: *Try to be complete*
+
+Headings, Paragraphs, Lists
+Pre tag 
+A tag 
+Img tag 
+Br and hr tag <This message was edited>
+05/08/25, 6:44 pm - MUKESH.K.A: <Media omitted>
+05/08/25, 6:45 pm - MUKESH.K.A: Poitu Iruku..! Na mudichitu call pandren daaah..!
+11/08/25, 6:57 pm - MUKESH.K.A: I can't hear you daa..!
+11/08/25, 6:57 pm - MUKESH.K.A: Call after you reach home
+11/08/25, 7:03 pm - Srithar KASC: Ok da
+11/08/25, 7:04 pm - Srithar KASC: Oops answer mark Panni anupu Naan type muduchitu vitus poga time aavum
+11/08/25, 7:11 pm - MUKESH.K.A: Okay dude..!
+18/08/25, 3:49 pm - MUKESH.K.A: Call?
+21/08/25, 9:15 pm - MUKESH.K.A: <Media omitted>
+22/08/25, 9:50 pm - Srithar KASC: 
+17/09/25, 3:55 pm - MUKESH.K.A: 
+26/09/25, 5:43 pm - MUKESH.K.A: Ennada soldra? Frnd? Daa
+27/09/25, 6:58 am - Srithar KASC: Ama da
+10/10/25, 4:58 pm - MUKESH.K.A: Model exam question paper 
+
+
+ 1.What is function overloading? Give a simple example.
+
+2. Define an inline function with an example
+
+3. What is a friend function?
+
+4. What is a class in C++?
+
+5. What is the purpose of a virtual base class?
+
+6. What is an abstract class in C++?
+
+7. Distinguish between early and late binding.
+
+8. What is an array of objects?.
+
+9. Define a function template with syntax.
+
+10. Write the syntax of a try-catch block.
+
+Section - B
+
+(5x 5=25 mark
+
+Answer the questions.
+
+11. (a). What is the use of break, continue, and goto v
+
+examples in C++.
+
+(OR)
+
+(b). Explain function overloading with examples
+
+12. (a). Explain the bit fields in C++. (OR)
+
+(b). Explain the function overloading with member fun
+
+13. (a). Ex[lain the implicit and explicit typeconversion. (OF
+
+(b). Explain the operator overloading.
+
+14.
+
+(a). Explain the characteristics of arrays in C++. (OR)
+
+(b). Explain the concept of polymorphism in C++
+
+15. (a). Explain exception handling in C++. (OR)
+
+(b). Describe various file opening modes with example:
+
+Section- C
+
+(3x 10-30 mar
+
+Answer any three questions.
+
+16. Explain the three types of loops in C++ with syntax anc
+
+examples.
+
+17. Explain the types of constructors in C++.
+
+18. Explain with examples the following type
+
+itar
+
+19. Explain pointers in C++
+
+20. Explain different file stream classes in C++
+13/10/25, 8:46 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:47 pm - Srithar KASC: 
+13/10/25, 8:47 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:47 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:47 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:51 pm - Srithar KASC: 3rd model
+13/10/25, 8:53 pm - Srithar KASC: 
+13/10/25, 8:53 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:53 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:54 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:56 pm - Srithar KASC: 
+13/10/25, 8:56 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:56 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:57 pm - Srithar KASC: 
+13/10/25, 8:57 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:57 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:59 pm - Srithar KASC: 
+13/10/25, 8:59 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:59 pm - Srithar KASC: <Media omitted>
+13/10/25, 8:59 pm - Srithar KASC: <Media omitted>
+13/10/25, 9:00 pm - Srithar KASC: <Media omitted>
+13/10/25, 9:01 pm - Srithar KASC: <Media omitted>
+22/10/25, 10:13 pm - Srithar KASC: Thalaivarey
+22/10/25, 10:13 pm - Srithar KASC: Nalaiku leave va or college enaku message pandranga thalaivarey <This message was edited>
+22/10/25, 10:14 pm - Srithar KASC: Neenga group oru message podunga
+22/10/25, 10:15 pm - Srithar KASC: Brooo.....
+22/10/25, 10:15 pm - Srithar KASC: ....
+22/10/25, 10:15 pm - Srithar KASC: 😶
+22/10/25, 10:19 pm - MUKESH.K.A: Na vikram vedha padam pathutu iruthen
+22/10/25, 10:23 pm - Srithar KASC: Bro neenga than rep leave or college group message poringa na nalla irukum
+22/10/25, 10:23 pm - MUKESH.K.A: 😂 Rep vanthu leave laa irukura paa..!
+22/10/25, 10:24 pm - MUKESH.K.A: Soo ipo namaku practical varikum leave Athuku aprmyum leave thana?
+22/10/25, 10:24 pm - Srithar KASC: Ama nenaikuren
+22/10/25, 10:24 pm - MUKESH.K.A: Seriii vidu apo pathukalam!
+22/10/25, 10:25 pm - Srithar KASC: Mm
+22/10/25, 10:25 pm - Srithar KASC: Ama thalaivarey
+22/10/25, 10:25 pm - MUKESH.K.A: Soluga Thalaiverrr
+23/10/25, 5:33 pm - Srithar KASC: Thalaivarey cia 600 + leave amount
+23/10/25, 5:34 pm - Srithar KASC: Naa oru naal leave neenga ?
+23/10/25, 5:56 pm - MUKESH.K.A: 2😶
+03/11/25, 7:51 am - MUKESH.K.A: Thalaivareee na Buzz cut panniten
+03/11/25, 11:54 am - Srithar KASC: Super bro
+03/11/25, 2:24 pm - Srithar KASC: Enga photo va kattu 😁
+03/11/25, 3:12 pm - MUKESH.K.A: 
+03/11/25, 3:14 pm - Srithar KASC: Va thala... ....thala 😎
+07/11/25, 10:22 pm - MUKESH.K.A: Yarru uhh..! Moratu Anime Lover ah irupaga pola
+07/11/25, 10:22 pm - Srithar KASC: School friend bro
+07/11/25, 10:23 pm - Srithar KASC: Tag panna potten 😁
+07/11/25, 10:23 pm - MUKESH.K.A: Seriii daa🤝🏻
+07/11/25, 10:25 pm - Srithar KASC: This message was deleted
+10/11/25, 3:24 pm - MUKESH.K.A: <Media omitted>
+11/11/25, 1:25 pm - Srithar KASC: Bro ennaku lesson topic matum send pandriya
+11/11/25, 2:07 pm - MUKESH.K.A: 
+11/11/25, 2:07 pm - MUKESH.K.A: <Media omitted>
+11/11/25, 2:07 pm - MUKESH.K.A: <Media omitted>
+11/11/25, 2:07 pm - MUKESH.K.A: <Media omitted>
+07/12/25, 2:25 pm - MUKESH.K.A: Deiiiiii
+07/12/25, 2:26 pm - MUKESH.K.A: 
+07/12/25, 2:34 pm - Srithar KASC: 
+07/12/25, 2:35 pm - MUKESH.K.A: 
+07/12/25, 2:39 pm - Srithar KASC: 
+07/12/25, 2:39 pm - Srithar KASC: 
+07/12/25, 9:49 pm - Srithar KASC: This message was deleted
+07/12/25, 9:50 pm - Srithar KASC: Bro irukingala
+07/12/25, 9:55 pm - Srithar KASC: Bro ippa than wifi connect panna
+07/12/25, 10:07 pm - MUKESH.K.A: <Media omitted>
+07/12/25, 10:08 pm - Srithar KASC: Ok thala 😎 👍
+07/12/25, 10:08 pm - MUKESH.K.A: Tension illa poi thugu mrng na just soldren ketu poi eluthu kandipa Nala mark ehh varum..!
+07/12/25, 10:08 pm - MUKESH.K.A: Pathukalam
+07/12/25, 10:09 pm - Srithar KASC: Mm
+07/12/25, 10:09 pm - Srithar KASC: Bye 👋
+08/12/25, 6:07 am - MUKESH.K.A: Call pandra..!
+08/12/25, 6:50 pm - Srithar KASC: 
+08/12/25, 7:24 pm - MUKESH.K.A: Call pannu bro..!!!
+08/12/25, 8:24 pm - MUKESH.K.A: 
+08/12/25, 8:24 pm - MUKESH.K.A: Brooooo
+08/12/25, 8:24 pm - MUKESH.K.A: 
+08/12/25, 8:24 pm - MUKESH.K.A: 
+11/12/25, 3:13 pm - MUKESH.K.A: <Media omitted>
+11/12/25, 3:13 pm - MUKESH.K.A: Hear this ADVICE FROM STR
+11/12/25, 3:13 pm - MUKESH.K.A: with headphones 🎧
+11/12/25, 7:20 pm - Srithar KASC: Therlaiye... Feel pandra hormone athigama velaseiyuthu....
+11/12/25, 7:21 pm - Srithar KASC: Bro topic
+11/12/25, 7:21 pm - Srithar KASC: Bro naa enna topic therla
+11/12/25, 7:22 pm - Srithar KASC: Naa pathu mudichitu message poduran
+11/12/25, 7:24 pm - Srithar KASC: Mukesh bro nerla patha company realize pannu brooooo....
+11/12/25, 7:24 pm - Srithar KASC: 😎👍
+11/12/25, 10:36 pm - MUKESH.K.A: 🤝🏻📈
+11/12/25, 10:36 pm - MUKESH.K.A: Bro HTML video laa 50.00mins laa viten broo..!
+11/12/25, 10:36 pm - MUKESH.K.A: Nee ethula vita?
+11/12/25, 10:36 pm - MUKESH.K.A: Srt pannitiya?
+12/12/25, 1:20 am - Srithar KASC: Bro sratch irunthu arambikiran.... Nalaiku DAY 1
+12/12/25, 3:58 pm - MUKESH.K.A: Come buddy start pannitiya..!
+13/12/25, 9:33 am - Srithar KASC: Ama bro
+13/12/25, 10:25 am - Srithar KASC: https://youtu.be/FYErehuSuuw?si=vzhVA8qdMmYksV7m
+13/12/25, 10:26 am - Srithar KASC: https://youtu.be/3jkub2c0kLA?si=47z5Wth2HfwHYh2Q
+13/12/25, 8:27 pm - Srithar KASC: Vanakam bro
+13/12/25, 8:35 pm - MUKESH.K.A: Progress? Evalo panni iruka brooo
+13/12/25, 8:36 pm - Srithar KASC: Pathi panni iruken kumarey
+13/12/25, 8:36 pm - Srithar KASC: Nee
+13/12/25, 8:37 pm - MUKESH.K.A: Nanum pannitu iruken but ithu Pannala vera pannitu iruka but okay nee athu crt ahh pannu na etha crt ahh pandren
+13/12/25, 8:38 pm - Srithar KASC: Ok kumarey 👍
+13/12/25, 8:39 pm - MUKESH.K.A: Come man keep going..! After completed one update me
+13/12/25, 8:39 pm - MUKESH.K.A: Nanume na onu mudichiten nahhh update pandren
+13/12/25, 8:40 pm - Srithar KASC: Confirm ma pandran bro ... 🤝
+13/12/25, 8:40 pm - Srithar KASC: Enna na enkita recharge illaiya anthanala panna mudiyala pa
+13/12/25, 8:41 pm - Srithar KASC: Eppadi yavathu message panniduran
+13/12/25, 8:41 pm - MUKESH.K.A: Ryt okay paa..! Pathukalam
+13/12/25, 8:41 pm - MUKESH.K.A: 🤝🏻🔥 avalovu uh tha kumare....
+13/12/25, 8:41 pm - Srithar KASC: Namatha kumarey..👊
+13/12/25, 8:42 pm - MUKESH.K.A: 👊🏻🤜🏻🤛🏻
+13/12/25, 8:42 pm - Srithar KASC: Enna pandra kumarey...🧐
+13/12/25, 8:43 pm - MUKESH.K.A: Epo Overthinking pannitu iruken kumare..!
+13/12/25, 8:43 pm - Srithar KASC: Yenn ?
+13/12/25, 8:43 pm - Srithar KASC: Etha nenachi overthink
+13/12/25, 8:44 pm - MUKESH.K.A: 1008 thinking 
+Avala pathiii yosichitu iruken..!
+Future pathi..! Earn pannum laaa! Aprm oru mariiii kastama Iruku kumare..! Yen nu therla..!
+13/12/25, 8:44 pm - MUKESH.K.A: Keka Cringe ahh irunthalum etha unmai..!
+13/12/25, 8:45 pm - Srithar KASC: veliya po bro
+13/12/25, 8:46 pm - Srithar KASC: Song ketutay walking poi vaa..
+13/12/25, 8:46 pm - Srithar KASC: Enna oru verupu ??
+13/12/25, 8:47 pm - Srithar KASC: Enaana
+13/12/25, 8:47 pm - Srithar KASC: <Media omitted>
+13/12/25, 8:47 pm - MUKESH.K.A: Atha therla brooo..! Enku nu yarrume illatha mariii Iruku..!
+13/12/25, 8:47 pm - Srithar KASC: Itha nenachi than
+13/12/25, 8:47 pm - Srithar KASC: B.com
+13/12/25, 8:48 pm - MUKESH.K.A: Ooo namaku mattum yen daa group laa ethvume poda maturaga..!
+13/12/25, 8:48 pm - Srithar KASC: Vidu bro nalaiku oru naal than pakama irupom... Aprm Monday irunthu full fun than
+13/12/25, 8:49 pm - Srithar KASC: Ama pa
+13/12/25, 8:49 pm - MUKESH.K.A: 🤜🏻🤛🏻
+13/12/25, 8:50 pm - MUKESH.K.A: Ellam oru nalu seriya poidum nu iruken..! Pathukalam
+13/12/25, 8:50 pm - Srithar KASC: Avangaluku aprm soldren soldranga
+13/12/25, 8:50 pm - MUKESH.K.A: Onume panna mudiyathu 😂 evanugala..!
+13/12/25, 8:50 pm - MUKESH.K.A: Papom ena pandraga nu..!
+13/12/25, 8:50 pm - Srithar KASC: Enna pandrathu
+13/12/25, 8:50 pm - MUKESH.K.A: <Media omitted>
+13/12/25, 8:50 pm - MUKESH.K.A: Epdi adikalam
+13/12/25, 8:51 pm - Srithar KASC: Group la pottu veriyethu vama
+13/12/25, 8:51 pm - Srithar KASC: Serupaley adinga sir...🙂‍↔️
+13/12/25, 8:51 pm - MUKESH.K.A: Vena daa ethavathu prblm vara pothu..!
+13/12/25, 8:51 pm - MUKESH.K.A: 😂
+13/12/25, 8:52 pm - Srithar KASC: Bro kojam funa irukum bro 🙂‍↕️
+13/12/25, 8:52 pm - MUKESH.K.A: Seriii poduuu😂
+13/12/25, 8:54 pm - MUKESH.K.A: 😂 evana vantha thamasa irukum
+13/12/25, 8:55 pm - Srithar KASC: Ama bro
+13/12/25, 8:55 pm - Srithar KASC: Ama yevanum varamattran
+13/12/25, 8:55 pm - Srithar KASC: 😁
+13/12/25, 8:57 pm - Srithar KASC: Susi vanthu iruntha verupa itupan
+13/12/25, 8:57 pm - Srithar KASC: Fun panalam
+13/12/25, 8:57 pm - MUKESH.K.A: 😂
+13/12/25, 9:07 pm - Srithar KASC: Bro ellam oditanga bro
+13/12/25, 9:57 pm - MUKESH.K.A: 😂
+13/12/25, 9:57 pm - MUKESH.K.A: Ama daaa
+14/12/25, 10:44 am - Srithar KASC: <Media omitted>
+14/12/25, 10:44 am - Srithar KASC: Enna bro
+14/12/25, 10:45 am - MUKESH.K.A: <Media omitted>
+14/12/25, 10:45 am - MUKESH.K.A: Kathu irupom Evng varikum..!
+14/12/25, 10:46 am - MUKESH.K.A: Maximum college irukum tha naikuraaa
+14/12/25, 10:46 am - Srithar KASC: <Media omitted>
+14/12/25, 10:46 am - Srithar KASC: Mm <This message was edited>
+14/12/25, 10:47 am - MUKESH.K.A: <Media omitted>
+14/12/25, 10:47 am - Srithar KASC: <Media omitted>
+14/12/25, 10:48 am - Srithar KASC: <Media omitted>
+14/12/25, 10:48 am - Srithar KASC: Apa enaiku college therilaye
+14/12/25, 10:50 am - Srithar KASC: 1 week leave va irukumo
+14/12/25, 10:51 am - Srithar KASC: <Media omitted>
+14/12/25, 11:33 am - MUKESH.K.A: Asai padatha brooo..!🙂‍↔️
+14/12/25, 12:59 pm - Srithar KASC: <Media omitted>
+14/12/25, 2:35 pm - MUKESH.K.A: <Media omitted>
+15/12/25, 10:01 am - Srithar KASC: Bro naa kuda yetho sem leave vu nenanchan.... But ithu DMK meeting ku leave va 😮‍💨
+15/12/25, 10:02 am - Srithar KASC: <Media omitted>
+15/12/25, 10:04 am - MUKESH.K.A: Ama daaa
+15/12/25, 11:04 am - Srithar KASC: Nalaikey kuda college reopen pannu vanga polaye
+15/12/25, 11:05 am - Srithar KASC: <Media omitted>
+15/12/25, 11:53 am - MUKESH.K.A: Ama broo 🥲
+15/12/25, 1:51 pm - Srithar KASC: Bro
+15/12/25, 1:52 pm - Srithar KASC: 😢
+15/12/25, 1:52 pm - Srithar KASC: Nalaiku oru naal than leave aprm college
+15/12/25, 1:53 pm - Srithar KASC: <Media omitted>
+15/12/25, 1:55 pm - Srithar KASC: <Media omitted>
+15/12/25, 4:28 pm - MUKESH.K.A: Athuvum Olunga solalai brooo
+15/12/25, 4:28 pm - MUKESH.K.A: Athukula delete pannitagale daa
+15/12/25, 10:21 pm - Srithar KASC: Call panni kekuriya bro
+15/12/25, 10:29 pm - Srithar KASC: 
+15/12/25, 10:30 pm - MUKESH.K.A: Velila iruken brooo
+15/12/25, 10:31 pm - Srithar KASC: Yenga bro
+15/12/25, 10:31 pm - Srithar KASC: Where ?
+15/12/25, 10:33 pm - MUKESH.K.A: Old friends kudaaa
+15/12/25, 10:34 pm - Srithar KASC: Atha pesitey iruganga bro 😑
+15/12/25, 10:34 pm - Srithar KASC: Seri paru bro 😎
+20/12/25, 5:49 pm - MUKESH.K.A: Brooo what about your progress?
+20/12/25, 5:49 pm - MUKESH.K.A: Vittupa ketiya? Inga ena vituku varathuku?
+20/12/25, 10:37 pm - Srithar KASC: ketten bro venan sonanga inga irunthey pannu 😑
+20/12/25, 10:38 pm - Srithar KASC: Inaiku kojam pathan bro
+20/12/25, 10:38 pm - Srithar KASC: Html
+20/12/25, 10:40 pm - Srithar KASC: Nee bro ??
+20/12/25, 10:41 pm - Srithar KASC: <Media omitted>
+20/12/25, 10:42 pm - Srithar KASC: Wait pannu bro naa yethavathu yosikiren 🤔
+21/12/25, 6:09 am - MUKESH.K.A: Haan
+21/12/25, 6:10 am - MUKESH.K.A: Yes there is a small progress
+21/12/25, 4:29 pm - Srithar KASC: 
+21/12/25, 5:27 pm - MUKESH.K.A: 
+21/12/25, 5:27 pm - MUKESH.K.A: Soldra call panni irutha
+21/12/25, 5:28 pm - MUKESH.K.A: Silent laa iruthuchu daaa
+22/12/25, 6:32 pm - MUKESH.K.A: Nama Class mam number irutha send panni daa! Srithar..!!!
+23/12/25, 7:43 am - Srithar KASC: 8825508410
+25/12/25, 7:06 pm - Srithar KASC: Bro
+25/12/25, 7:06 pm - Srithar KASC: Progress enna achu
+25/12/25, 7:07 pm - Srithar KASC: 🤔
+25/12/25, 7:07 pm - Srithar KASC: Naa lita pathan
+25/12/25, 7:19 pm - MUKESH.K.A: Nanum lite ah patha..!
+25/12/25, 7:19 pm - MUKESH.K.A: 🤝🏻 good progress redu peruthume srt aiduchu..!
+25/12/25, 7:47 pm - Srithar KASC: Yeah bro... 💭
+25/12/25, 7:48 pm - Srithar KASC: Maths ethana potiya
+25/12/25, 7:48 pm - Srithar KASC: Naa ethuvum sum podala athan kettan
+25/12/25, 8:10 pm - MUKESH.K.A: Potute iruken brooo
+25/12/25, 8:10 pm - MUKESH.K.A: Neeyum podu
+27/12/25, 3:02 pm - Srithar KASC: Bro
+27/12/25, 3:03 pm - Srithar KASC: Maths answer correct ta vanthucha 🤔
+27/12/25, 3:04 pm - Srithar KASC: Answer mattum send panna Nala irukum 😁
+27/12/25, 4:10 pm - MUKESH.K.A: Etho send pandra daaa
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+28/12/25, 9:28 am - MUKESH.K.A: <Media omitted>
+03/01/26, 3:58 pm - MUKESH.K.A: Boys yarrula varaga nu pathutu ona pona Nala irukume nacha ?
+03/01/26, 3:58 pm - MUKESH.K.A: Nee vittula ketu parru
+03/01/26, 3:58 pm - MUKESH.K.A: Nama ona pogalam
+03/01/26, 3:59 pm - Srithar KASC: Mm ok <This message was edited>
+03/01/26, 4:02 pm - MUKESH.K.A: Nee vittula ketu parru
+03/01/26, 4:02 pm - MUKESH.K.A: Nanum pathutu information full padichitu details soldren
+03/01/26, 4:02 pm - Srithar KASC: Ok bro
+03/01/26, 4:02 pm - Srithar KASC: 👍
+03/01/26, 6:12 pm - MUKESH.K.A: Brooo the event cost is about 5000
+03/01/26, 11:52 pm - Srithar KASC: Why 😨  ?
+04/01/26, 6:55 am - MUKESH.K.A: Yessss brooo
+04/01/26, 3:21 pm - Srithar KASC: 
+05/01/26, 8:33 am - Srithar KASC: ..
+05/01/26, 8:33 am - Srithar KASC: 
+05/01/26, 5:46 pm - Srithar KASC: Enna nadathananga bro 😑
+05/01/26, 5:50 pm - MUKESH.K.A: 
+05/01/26, 6:00 pm - MUKESH.K.A: 
+05/01/26, 9:09 pm - Srithar KASC: Bro
+05/01/26, 9:09 pm - Srithar KASC: Program code
+05/01/26, 9:09 pm - Srithar KASC: Class work or rough note
+05/01/26, 9:10 pm - Srithar KASC: I could be write ✍️
+05/01/26, 9:10 pm - Srithar KASC: ⁉️
+05/01/26, 9:14 pm - MUKESH.K.A: Rough or classwork anything brooo
+05/01/26, 9:22 pm - Srithar KASC: Bro code romba perusa iruku 🤔
+05/01/26, 9:23 pm - MUKESH.K.A: <Media omitted>
+06/01/26, 6:21 pm - Srithar KASC: Bro naalaiku oru 370 change eduthutu vanthuru
+06/01/26, 6:30 pm - MUKESH.K.A: Yen daaa?
+06/01/26, 6:56 pm - MUKESH.K.A: You deleted this message
+06/01/26, 6:57 pm - MUKESH.K.A: DUDE...!!!!!!!!!!!!!!!!
+06/01/26, 8:36 pm - Srithar KASC: Tamil guide money eduthutu varan da
+06/01/26, 8:36 pm - Srithar KASC: 500 rs but change illa athan
+06/01/26, 8:36 pm - Srithar KASC: Any work for today
+06/01/26, 8:36 pm - Srithar KASC: 🤔
+06/01/26, 9:01 pm - MUKESH.K.A: I think noo work
+06/01/26, 9:02 pm - Srithar KASC: Saptiya bro
+06/01/26, 9:03 pm - Srithar KASC: Naan ipathan sapuran, saptu progress start pandran
+06/01/26, 9:03 pm - Srithar KASC: Neeyum pannu bro
+06/01/26, 9:03 pm - MUKESH.K.A: 📈🤝🏻
+06/01/26, 9:03 pm - MUKESH.K.A: Pandren
+06/01/26, 9:03 pm - MUKESH.K.A: Let's start the 🎯 GAME
+06/01/26, 9:04 pm - Srithar KASC: <Media omitted>
+07/01/26, 9:44 pm - Srithar KASC: Bro
+07/01/26, 9:44 pm - Srithar KASC: Part time job kupuranga 😲
+07/01/26, 9:59 pm - Srithar KASC: <Media omitted>
+07/01/26, 9:59 pm - Srithar KASC: 
+07/01/26, 10:03 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:04 pm - Srithar KASC: 
+07/01/26, 10:04 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:04 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:04 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:04 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:11 pm - Srithar KASC: https://youtube.com/shorts/3hZNNR5Ia3w?si=3IdfBGwxhrSreaQz
+07/01/26, 10:11 pm - Srithar KASC: https://youtube.com/shorts/6CQkfoxjZo4?si=ksE1JH-I67sR-psw
+07/01/26, 10:12 pm - Srithar KASC: https://youtube.com/shorts/V6LWmogrBYM?si=B6fzcUmOnZ7spygY
+07/01/26, 10:13 pm - Srithar KASC: https://youtu.be/upSyiKXHYUk?si=lAjId49rBV3ob3XK
+07/01/26, 10:13 pm - Srithar KASC: https://youtu.be/BpdinWDfbPk?si=kH6UgSdweBfgfY0c
+07/01/26, 10:15 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 10:36 pm - MUKESH.K.A: https://youtu.be/W3iEc2G4kj0?si=IcwteavbIC_D7lOg
+07/01/26, 10:37 pm - MUKESH.K.A: https://youtu.be/Ku6figf09rg?si=VWNbyOW0TC6lNeNZ
+07/01/26, 10:41 pm - MUKESH.K.A: https://youtu.be/AxnGwfetL4U?si=TP9OiBLb7BVunKVu
+07/01/26, 10:47 pm - Srithar KASC: 
+07/01/26, 10:47 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:47 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:47 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 10:48 pm - Srithar KASC: <Media omitted>
+07/01/26, 10:52 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 10:52 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 10:55 pm - MUKESH.K.A: https://youtu.be/3jkub2c0kLA?si=5gfUD_oTH4AxKIzM
+07/01/26, 11:00 pm - MUKESH.K.A: I hope you're doing well! I just wanted to share a quick update on my end - I've put together a simple Campus Placement Analysis of our batch. Would love to get your thoughts and feedback if your interested 🙌.
+
+https://www.linkedin.com/posts/mukesh-k-a-818b252a2_campus-placement-analysis-activity-7412537912103231488-pnYi?utm_source=share&utm_medium=member_android&rcm=ACoAAEkjLFQB2k_8FGF-OhApgrbuMGlNENz2zyE
+07/01/26, 11:00 pm - MUKESH.K.A: 
+07/01/26, 11:00 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 11:00 pm - MUKESH.K.A: <Media omitted>
+07/01/26, 11:00 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 2:45 pm - MUKESH.K.A: Srithar evanugaluku laaa group laa ethvum solave kudathu daaa
+08/01/26, 2:45 pm - Srithar KASC: Mm
+08/01/26, 2:46 pm - MUKESH.K.A: 
+08/01/26, 2:54 pm - Srithar KASC: https://event.data.gov.in/challenge/uidai-data-hackathon-2026/
+08/01/26, 8:45 pm - Srithar KASC: Bro maths kojam send pandringala
+08/01/26, 8:47 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:47 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:48 pm - MUKESH.K.A: <Media omitted>
+08/01/26, 8:56 pm - Srithar KASC: Bro
+08/01/26, 8:57 pm - Srithar KASC: Oru oruthanum call panni savadi kiranunga bro 😟
+08/01/26, 9:06 pm - MUKESH.K.A: Na silent laa poten
+08/01/26, 9:15 pm - Srithar KASC: Gym irukum bothu call panni veriyethitanga bro
+08/01/26, 9:19 pm - Srithar KASC: Anga phone vaikura edathula oru anna iruparu
+08/01/26, 9:20 pm - Srithar KASC: Naa cilent potalum avaru soldraru
+08/01/26, 9:21 pm - Srithar KASC: Ellam padichitiya kumarey
+08/01/26, 9:48 pm - MUKESH.K.A: Inum illa kumare
+14/01/26, 1:52 pm - Srithar KASC: https://sridhar93600.neocities.org/event/event%20Created%20by%20sridhar
+14/01/26, 1:53 pm - Srithar KASC: kumarey 1 websites completed..!
+14/01/26, 1:53 pm - Srithar KASC: inom onnu iruku mudichitu poduran
+14/01/26, 2:15 pm - MUKESH.K.A: Come kabilaaa
+14/01/26, 2:16 pm - MUKESH.K.A: <Media omitted>
+14/01/26, 2:45 pm - Srithar KASC: Mm
+14/01/26, 2:57 pm - MUKESH.K.A: Brooo..!
+14/01/26, 2:58 pm - MUKESH.K.A: <Media omitted>
+14/01/26, 7:59 pm - Srithar KASC: This message was deleted
+14/01/26, 7:59 pm - Srithar KASC: <Media omitted>
+14/01/26, 8:00 pm - Srithar KASC: <Media omitted>
+14/01/26, 8:05 pm - MUKESH.K.A: Back bench..! Ku mundiii bench
+14/01/26, 8:05 pm - MUKESH.K.A: Avaga pathu irukaga..!
+14/01/26, 8:06 pm - Srithar KASC: Epadi ?
+14/01/26, 8:06 pm - Srithar KASC: <Media omitted>
+14/01/26, 8:06 pm - MUKESH.K.A: Therla mam tha sonaga
+14/01/26, 8:06 pm - Srithar KASC: Sumithra mam ha
+14/01/26, 8:06 pm - MUKESH.K.A: Illa Nandhini Mam daa
+14/01/26, 8:07 pm - Srithar KASC: <Media omitted>
+14/01/26, 8:07 pm - Srithar KASC: 
+14/01/26, 8:15 pm - MUKESH.K.A: Bro enkita data illa
+14/01/26, 8:15 pm - MUKESH.K.A: Mudichi
+14/01/26, 9:05 pm - Srithar KASC: 
+17/01/26, 6:48 pm - Srithar KASC: Thalaivarey irukinga la
+17/01/26, 8:15 pm - MUKESH.K.A: Iruken thalaiverrr
+17/01/26, 8:16 pm - Srithar KASC: Summa tha thalaivarey 😅
+17/01/26, 8:44 pm - MUKESH.K.A: Haan 🤣🤝🏻
+17/01/26, 9:10 pm - Srithar KASC: Kumarey enn whatsapp bug aiduchi nenaikuren 🤔
+17/01/26, 9:11 pm - Srithar KASC: Main clg group la photo send panna mathiri symbol kattuthu but open panna onnumey illa ⁉️
+17/01/26, 9:11 pm - Srithar KASC: How it possible 🤔
+17/01/26, 10:15 pm - MUKESH.K.A: You deleted this message
+17/01/26, 10:16 pm - Srithar KASC: ⁉️
+17/01/26, 10:16 pm - MUKESH.K.A: Bug tha irukum..!
+17/01/26, 10:17 pm - Srithar KASC: Mm
+17/01/26, 10:17 pm - Srithar KASC: How it going leave 😅
+17/01/26, 10:17 pm - Srithar KASC: Me : it's very very bad
+17/01/26, 10:18 pm - Srithar KASC: Bye charge..!2
+17/01/26, 10:34 pm - MUKESH.K.A: 😶ethoooo
+18/01/26, 7:18 pm - Srithar KASC: Kumarey
+18/01/26, 7:18 pm - Srithar KASC: Hair cut nahi 😅
+18/01/26, 7:19 pm - Srithar KASC: Barbar shop not open 😺
+18/01/26, 7:22 pm - Srithar KASC: Nalaiku 😅mm mm mm..! Than
+18/01/26, 9:51 pm - MUKESH.K.A: 🤣🤝🏻
+18/01/26, 9:51 pm - MUKESH.K.A: Nalaiku papom
+19/01/26, 3:28 pm - Srithar KASC: Bro
+19/01/26, 3:28 pm - Srithar KASC: <Media omitted>
+19/01/26, 3:28 pm - Srithar KASC: Intha image potukuran
+19/01/26, 4:30 pm - MUKESH.K.A: Tamil ethu ellam? Venum daaa
+19/01/26, 4:30 pm - MUKESH.K.A: ?
+19/01/26, 4:35 pm - Srithar KASC: 2nd unit la thani padal starting irunthu <This message was edited>
+19/01/26, 5:44 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:45 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:45 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:45 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:45 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:45 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:46 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:46 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 5:46 pm - MUKESH.K.A: <Media omitted>
+19/01/26, 10:20 pm - Srithar KASC: Bro
+19/01/26, 10:20 pm - Srithar KASC: 
+19/01/26, 10:27 pm - Srithar KASC: Bro
+20/01/26, 6:08 am - MUKESH.K.A: Thugiten
+20/01/26, 7:09 am - Srithar KASC: Ok
+20/01/26, 9:02 pm - MUKESH.K.A: <Media omitted>
+20/01/26, 9:03 pm - Srithar KASC: This message was deleted
+22/01/26, 6:39 pm - Srithar KASC: Kumarey frontend kojam dept ta soldranga
+22/01/26, 10:12 pm - Srithar KASC: Bro naan mudhalvan pathiya bro
+22/01/26, 10:44 pm - MUKESH.K.A: Is that is usefull?
+22/01/26, 10:44 pm - MUKESH.K.A: Aprma pathukalam nu viten
+22/01/26, 10:44 pm - Srithar KASC: Login id password kudukala bro
+22/01/26, 10:45 pm - MUKESH.K.A: Ethoo onu aprma pathukalam nu viten
+22/01/26, 10:45 pm - Srithar KASC: Naan css pakalam nenchan
+22/01/26, 10:45 pm - MUKESH.K.A: Haann
+22/01/26, 10:46 pm - MUKESH.K.A: Nalaiku etha attend panni parru daaa
+22/01/26, 10:46 pm - Srithar KASC: Athukula naan mudhalvan pathi summa pathukittu iruthen
+22/01/26, 10:46 pm - MUKESH.K.A: Haa
+22/01/26, 10:46 pm - Srithar KASC: Haan registration panniten kumarey
+22/01/26, 10:48 pm - Srithar KASC: Nalaiku oru naal mattum ma
+22/01/26, 10:51 pm - MUKESH.K.A: ?
+22/01/26, 10:51 pm - Srithar KASC: Webinar
+22/01/26, 10:52 pm - MUKESH.K.A: Yes
+22/01/26, 10:52 pm - MUKESH.K.A: Oru master class mariii
+22/01/26, 10:52 pm - MUKESH.K.A: Ellathukume oru overview kudupaga
+22/01/26, 10:52 pm - Srithar KASC: Mm....!
+22/01/26, 10:52 pm - MUKESH.K.A: Aprm neeya padichika vendiyathu tha.!
+22/01/26, 10:52 pm - MUKESH.K.A: After finishing the partial CSS you may go with React because that's the leading software now
+22/01/26, 10:53 pm - MUKESH.K.A: <Media omitted>
+22/01/26, 10:54 pm - MUKESH.K.A: <Media omitted>
+22/01/26, 10:54 pm - MUKESH.K.A: 👍🏻🤝🏻
+22/01/26, 10:54 pm - Srithar KASC: Yeah bro 👍
+22/01/26, 10:55 pm - MUKESH.K.A: Let's crack the System 🤝🏻🫡
+22/01/26, 10:55 pm - MUKESH.K.A: Ryt uhh Nalaiku college laa papom..!
+22/01/26, 10:55 pm - Srithar KASC: Bro
+22/01/26, 10:56 pm - MUKESH.K.A: Solu broo
+22/01/26, 10:56 pm - Srithar KASC: Tech program enna achu
+22/01/26, 10:57 pm - Srithar KASC: Apply pannitiya ⁉️
+22/01/26, 10:57 pm - MUKESH.K.A: Illa Nalaiku pathutu thaa..!
+22/01/26, 10:57 pm - MUKESH.K.A: Letter kuduthu..! Permission vagunathuku aprm tha
+22/01/26, 10:57 pm - Srithar KASC: Feb 4 confirm lab
+22/01/26, 10:58 pm - MUKESH.K.A: Pakkalam ena soldraga nu
+22/01/26, 10:58 pm - Srithar KASC: Kudupanga naburan 🤗
+22/01/26, 10:58 pm - Srithar KASC: Ok kumarey
+22/01/26, 10:58 pm - Srithar KASC: Bye
+22/01/26, 10:58 pm - MUKESH.K.A: 🫡🤝🏻👍🏻
+22/01/26, 10:59 pm - MUKESH.K.A: Pathukalam..!
+23/01/26, 6:43 pm - Srithar KASC: Kumarey
+23/01/26, 6:49 pm - Srithar KASC: Webinar class la
+23/01/26, 6:51 pm - Srithar KASC: 100% percent la 5% percent than purinchuchi 😑 <This message was edited>
+23/01/26, 8:38 pm - MUKESH.K.A: Ena purichi?
+23/01/26, 10:51 pm - Srithar KASC: Ithu semantic HTML
+23/01/26, 10:52 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:53 pm - Srithar KASC: Intha mathiri compare panni pesunanga...!
+23/01/26, 10:54 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:54 pm - Srithar KASC: Tags sonanga..! Aprm
+23/01/26, 10:54 pm - Srithar KASC: 🤔
+23/01/26, 10:55 pm - Srithar KASC: 
+23/01/26, 10:55 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:55 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:55 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:55 pm - Srithar KASC: <Media omitted>
+23/01/26, 10:55 pm - Srithar KASC: <Media omitted>
+23/01/26, 11:00 pm - Srithar KASC: Larger tags simplify panni easy yanna new tags mathananga
+23/01/26, 11:01 pm - Srithar KASC: Ithu fulla React Masterclass 
+Foundations base panni than irukum sonanga thaivarey...! <This message was edited>
+23/01/26, 11:04 pm - Srithar KASC: Java script sollum bothu onnum puriyala 😑
+23/01/26, 11:05 pm - Srithar KASC: Avalothan kumarey mudinch..! 😅
+24/01/26, 6:06 am - MUKESH.K.A: Prblm illa kumare ehhh
+24/01/26, 6:07 am - MUKESH.K.A: Just attend pannaiya oru 5% knowledge gain pannite okay
+24/01/26, 6:07 am - MUKESH.K.A: Initial stage laa apdi tha irukum
+24/01/26, 6:07 am - MUKESH.K.A: Pathukalam
+24/01/26, 6:07 am - MUKESH.K.A: Apo css react and java script mudi
+24/01/26, 6:07 am - MUKESH.K.A: Athuku aprm etha mariii workshop attend pannu you may see the results
+24/01/26, 8:44 am - Srithar KASC: Yes 🤚
+24/01/26, 9:55 am - Srithar KASC: Ok sir
+24/01/26, 9:58 am - MUKESH.K.A: 🫡
+26/01/26, 8:37 pm - Srithar KASC: Mukesh bro <This message was edited>
+26/01/26, 8:38 pm - Srithar KASC: Padichitingala 😑
+26/01/26, 8:38 pm - Srithar KASC: Naa college vanthu pathukalam vituten 😅
+26/01/26, 8:59 pm - MUKESH.K.A: Thoda kuda illa daaa
+26/01/26, 8:59 pm - MUKESH.K.A: Na velila vanthu iruken
+26/01/26, 9:06 pm - Srithar KASC: Pass ana pothum la <This message was edited>
+26/01/26, 9:33 pm - MUKESH.K.A: Pothum daaa
+26/01/26, 9:34 pm - Srithar KASC: Apa college la pathukalam
+26/01/26, 9:34 pm - Srithar KASC: 🤗
+26/01/26, 9:34 pm - Srithar KASC: Naa apa css pakuren
+26/01/26, 9:35 pm - MUKESH.K.A: 🤝🏻
+27/01/26, 6:01 pm - MUKESH.K.A: CSS progress?
+27/01/26, 6:29 pm - Srithar KASC: Start panniten kumarey 👍
+27/01/26, 6:47 pm - Srithar KASC: Naa inaiku elvalavu mudika mudiumo avalovu mudikiren
+27/01/26, 6:47 pm - Srithar KASC: English mattum ennaku lite class explain Pannu 🤗
+27/01/26, 6:55 pm - MUKESH.K.A: 🤝🏻kandipa dude na pandren
+28/01/26, 3:40 pm - MUKESH.K.A: <Media omitted>
+28/01/26, 3:40 pm - MUKESH.K.A: Check panni parru daa..!
+28/01/26, 3:40 pm - MUKESH.K.A: Nee ethvum feel pannatha re-evaluation podu vanthudum..!
+28/01/26, 3:41 pm - MUKESH.K.A: Atleast oru alavuku eluthunala Athuku kuda mark poda ma iruken daa
+28/01/26, 3:41 pm - MUKESH.K.A: Again re evaluation podu kandipa varum..!
+28/01/26, 3:42 pm - Srithar KASC: Ipo naan re-evaluation pottu pass aitena...! History of arrear kattuma 😑
+28/01/26, 3:42 pm - MUKESH.K.A: Enke vanthuduchu..! Unku varatha kumare..! Varum..!
+28/01/26, 3:42 pm - MUKESH.K.A: Katathu daaa
+28/01/26, 3:42 pm - MUKESH.K.A: Varathu
+28/01/26, 3:42 pm - MUKESH.K.A: Arrer exam eluthi pass panatha kamikum
+28/01/26, 3:42 pm - MUKESH.K.A: Re-evaluation kulam katathu..!
+28/01/26, 3:42 pm - Srithar KASC: Ok bro 👍
+28/01/26, 3:43 pm - MUKESH.K.A: 🫂feel pannatha broo..!
+28/01/26, 3:43 pm - MUKESH.K.A: I know how it's feels..!
+28/01/26, 3:43 pm - Srithar KASC: Bro avanga kasu vangrathukaga
+28/01/26, 3:43 pm - MUKESH.K.A: Apdiye thadaa irukum..!
+28/01/26, 3:44 pm - Srithar KASC: Fail potturukanunga bro athan verupu
+28/01/26, 3:44 pm - MUKESH.K.A: <Media omitted>
+28/01/26, 3:45 pm - MUKESH.K.A: 🫂 Onum illa daa..! Ellam nalathuku nu nachikoya..!
+28/01/26, 3:45 pm - Srithar KASC: Ok bro thanks for supporting 👍
+28/01/26, 3:45 pm - MUKESH.K.A: 🫂athalam onum illa naba..! Na iruken pathukalam
+28/01/26, 3:46 pm - Srithar KASC: Ok ok sir 👍
+28/01/26, 7:13 pm - Srithar KASC: Bro
+28/01/26, 7:14 pm - Srithar KASC: Thiruvallur university portal open agutha pathu solriya bro
+28/01/26, 7:50 pm - MUKESH.K.A: Etho odane pathu soldren broo
+28/01/26, 8:00 pm - MUKESH.K.A: Illa bro enkume Crash aiduchu..!
+28/01/26, 8:00 pm - MUKESH.K.A: Website open agala
+28/01/26, 8:01 pm - Srithar KASC: Ennakum athey than 😑
+28/01/26, 8:05 pm - MUKESH.K.A: Wait panni porumai pannu Brooo
+02/02/26, 9:32 pm - MUKESH.K.A: Dude
+02/02/26, 9:33 pm - MUKESH.K.A: Dear Intern,
+
+Greetings from King of ERP.
+
+We are pleased to inform you that the King of ERP Internship Program will officially begin from February 2 and continue until July 31.
+
+To proceed with your enrollment, you are required to complete the Google Form below by today:
+
+🔗 https://docs.google.com/forms/d/e/1FAIpQLSdSAH551RUg8cgipHXL2bN0nOgW8Z-9pzUqAopEO8lTJbIbBg/viewform?usp=publish-editor
+
+This form is mandatory to confirm your participation in the internship.
+
+The meeting timing and further instructions will be shared with you shortly.
+
+We look forward to working with you and giving you real-time product development experience with King of ERP.
+
+Best regards,
+Shahul Hameed
+Founder – King of ERP
++971 509186763
+02/02/26, 9:33 pm - MUKESH.K.A: Etha form fill pannu broo..!
+02/02/26, 9:34 pm - MUKESH.K.A: Ethooo soldraga intern nuu..!
+02/02/26, 9:34 pm - MUKESH.K.A: Just register Pannu..! Pakkalam..!
+02/02/26, 9:34 pm - MUKESH.K.A: If it is scam velila vanthudalam..!
+02/02/26, 9:34 pm - Srithar KASC: Ok dude 😎
+02/02/26, 9:36 pm - Srithar KASC: Data gali...naa morning pandran dude
+02/02/26, 9:36 pm - MUKESH.K.A: Marakama pannidu..#
+02/02/26, 9:36 pm - MUKESH.K.A: https://chat.whatsapp.com/CA6PcKeG0rO8OCWyL3P1FA?mode=gi_t
+02/02/26, 9:36 pm - MUKESH.K.A: Na panniten..! Just try panni pakkalam
+02/02/26, 9:37 pm - Srithar KASC: Kumarey intha link join panna mudiyathu katuthu
+02/02/26, 9:37 pm - Srithar KASC: Ok sir 👍
+02/02/26, 9:38 pm - MUKESH.K.A: Block pannita pola..!
+02/02/26, 9:38 pm - MUKESH.K.A: Nee form ehh register Pannu
+02/02/26, 9:38 pm - MUKESH.K.A: Methiya na pathukuraaa
+02/02/26, 9:39 pm - Srithar KASC: 💪🤝
+03/02/26, 5:37 pm - MUKESH.K.A: Register pannitiya daaa?
+03/02/26, 7:36 pm - MUKESH.K.A: <Media omitted>
+03/02/26, 8:47 pm - Srithar KASC: Done bro 👍
+03/02/26, 8:54 pm - Srithar KASC: Registration done 👍 kumarey...!
+04/02/26, 6:39 am - Srithar KASC: Safe..ha poitu va bro...👋🤗
+04/02/26, 7:43 am - MUKESH.K.A: 🤝🏻✨
+04/02/26, 9:41 pm - Srithar KASC: This message was deleted
+05/02/26, 9:45 pm - Srithar KASC: Hello, I’ve just registered for GUVI’s Exclusive Event Series! If you’re also interested in upskilling yourself in Full Stack Development, UI/UX, Data Science, Business Analytics, Digital Marketing, or Artificial Intelligence and Machine Learning, subscribe here for free: https://bit.ly/49ZNrNW
+08/02/26, 4:50 pm - Srithar KASC: This message was deleted
+08/02/26, 4:50 pm - Srithar KASC: This message was deleted
+08/02/26, 4:50 pm - Srithar KASC: This message was deleted
+08/02/26, 4:51 pm - Srithar KASC: This message was deleted
+09/02/26, 7:51 am - Srithar KASC: Bro <This message was edited>
+09/02/26, 7:52 am - Srithar KASC: 
+09/02/26, 7:52 pm - Srithar KASC: 
+11/02/26, 10:03 pm - MUKESH.K.A: https://youtu.be/P-BDQpd6nkA?si=TRDviucPr4yHkQax
+11/02/26, 10:03 pm - MUKESH.K.A: That Kalyani song daaa
+11/02/26, 10:03 pm - MUKESH.K.A: Na sona laaa..!
+12/02/26, 11:08 pm - Srithar KASC: Niyabakam...! What ? 🤔
+13/02/26, 6:26 am - MUKESH.K.A: ?
+13/02/26, 2:41 pm - MUKESH.K.A: Strat the Javascript Brooo
+13/02/26, 4:30 pm - MUKESH.K.A: Pass Aita daaa Srithar 🫡
+13/02/26, 10:47 pm - Srithar KASC: Yepaaaaa....! Ipa than kojam manasu okay aguthu...!
+13/02/26, 10:47 pm - Srithar KASC: Thanks kumarey
+13/02/26, 10:48 pm - Srithar KASC: Bro phone recharge expired...! Nee message pannu naa porumaiya reply pandran...! Mm ?
+14/02/26, 3:09 pm - Srithar KASC: https://www.instagram.com/reel/DUVxd-SgBTu/?igsh=dDk1cnA3cWJraXJi
+14/02/26, 6:02 pm - MUKESH.K.A: Definitely We will ✨ Man 🤝🏻
+14/02/26, 6:02 pm - MUKESH.K.A: One Day..!
+14/02/26, 6:56 pm - Srithar KASC: Bro css, orey oru exercise iruku mudichitana...! Java than 🤝
+14/02/26, 6:56 pm - Srithar KASC: Parakurom...! Parenthey avarom...! 🫡
+14/02/26, 6:59 pm - Srithar KASC: Headache 🤯 Iruku athan ithan pakam vanthan 🙈
+14/02/26, 7:00 pm - Srithar KASC: What happened on your progress bro...!
+14/02/26, 7:00 pm - MUKESH.K.A: Va Arunachalam nee inga tha varuva nu theriyum
+14/02/26, 7:00 pm - MUKESH.K.A: keep going!!!
+14/02/26, 7:00 pm - MUKESH.K.A: poitee iruku!!! Im Analysing the Zomato Dataset
+14/02/26, 7:01 pm - MUKESH.K.A: and yeaa its going after that2 or 3 more ML topics after that Project Buliding bruhh
+14/02/26, 7:01 pm - Srithar KASC: Vaa thalaiva ..! Vaa thalaiva ...!
+14/02/26, 7:03 pm - Srithar KASC: Bro aprm, Ds.A vera 10 mark yeythanum...!
+14/02/26, 7:03 pm - MUKESH.K.A: Ama Thalaivaree Marathuten
+14/02/26, 7:03 pm - MUKESH.K.A: nalaiku nabagam paduthu mudichidalam
+14/02/26, 7:04 pm - Srithar KASC: Okay 👍
+15/02/26, 2:14 pm - Srithar KASC: ☝
+15/02/26, 2:15 pm - Srithar KASC: Enna bro...! incharge mathiri neekiringa 😅
+15/02/26, 2:18 pm - Srithar KASC: Business development ha...! Bro
+15/02/26, 2:20 pm - MUKESH.K.A: 😁 Yess bro
+15/02/26, 2:20 pm - MUKESH.K.A: Last time poi iruthalaaa
+15/02/26, 2:20 pm - MUKESH.K.A: Apo Aduthu irukaga
+15/02/26, 2:20 pm - Srithar KASC: Ama
+15/02/26, 2:20 pm - MUKESH.K.A: Pakka Nala iruthuchu seri podanum nu thonuchu atha poten
+15/02/26, 2:21 pm - Srithar KASC: Nalla Iruku bro 😁
+15/02/26, 2:22 pm - Srithar KASC: Bro Css was completed...! Next Java script...!
+15/02/26, 2:22 pm - MUKESH.K.A: Podu 📈
+15/02/26, 2:22 pm - Srithar KASC: 3 hours spend pannitu iruthen 🤯
+15/02/26, 2:22 pm - MUKESH.K.A: Welcome FrontEnd developer 🫡
+15/02/26, 2:23 pm - MUKESH.K.A: Enkum inum few questions Iruku mudichiten nahhh
+15/02/26, 2:23 pm - MUKESH.K.A: Na Next ML kula konjum deep ahh poven..!
+15/02/26, 2:23 pm - Srithar KASC: Thanks agent...! Mukesh
+15/02/26, 2:23 pm - Srithar KASC: Superb bro 🥳
+15/02/26, 2:23 pm - MUKESH.K.A: 🤝🏻 Parakurom Parathe agurom..!
+15/02/26, 2:24 pm - Srithar KASC: Bro Ds&a 10 mark yeythanum...! <This message was edited>
+15/02/26, 2:25 pm - MUKESH.K.A: Ama broo Evng eluthula nu iruken
+15/02/26, 2:25 pm - Srithar KASC: Mudichitu message pannu bro...!
+15/02/26, 7:14 pm - MUKESH.K.A: <Media omitted>
+15/02/26, 7:59 pm - MUKESH.K.A: Have you attending this bro?
+15/02/26, 8:49 pm - Srithar KASC: Ahhn just 30 min only bro...!
+15/02/26, 8:49 pm - Srithar KASC: Function iruthen athan fulla pakamudiyala
+15/02/26, 8:52 pm - MUKESH.K.A: Seriii okay
+15/02/26, 8:53 pm - Srithar KASC: The most likely future isn't one replacing the other; it’s the Centaur approach (half human, half machine).
+15/02/26, 8:53 pm - Srithar KASC: Ai replace panniduma bro...!
+15/02/26, 8:53 pm - Srithar KASC: Nee sonaiye molbot & etc... <This message was edited>
+15/02/26, 8:54 pm - MUKESH.K.A: Let me call pannata?
+16/02/26, 6:57 am - MUKESH.K.A: <Media omitted>
+16/02/26, 7:03 am - Srithar KASC: Theriyalaye bro ...!
+16/02/26, 7:03 am - Srithar KASC: Why
+16/02/26, 7:04 am - Srithar KASC: Bro naa dsa not write ✍️
+16/02/26, 7:33 am - MUKESH.K.A: Nanume eluthulaaa
+16/02/26, 7:33 am - MUKESH.K.A: Class laa eluthidalam
+16/02/26, 7:33 am - Srithar KASC: Lab than pathukalam
+18/02/26, 8:03 pm - Srithar KASC: <Media omitted>
+18/02/26, 9:14 pm - MUKESH.K.A: 🫡🔥
+18/02/26, 9:14 pm - MUKESH.K.A: Call me broii
+18/02/26, 9:15 pm - MUKESH.K.A: But there is changes i need !!!
+18/02/26, 10:26 pm - MUKESH.K.A: <Media omitted>
+18/02/26, 10:30 pm - MUKESH.K.A: <Media omitted>
+18/02/26, 11:26 pm - Srithar KASC: <Media omitted>
+18/02/26, 11:27 pm - Srithar KASC: Calculate system merge pannava bro...!
+18/02/26, 11:28 pm - Srithar KASC: Aprm background design pannanum
+18/02/26, 11:28 pm - Srithar KASC: Innum enna add pannanum bro...?
+18/02/26, 11:28 pm - Srithar KASC: 🫡
+18/02/26, 11:29 pm - Srithar KASC: Gn
+19/02/26, 5:36 am - MUKESH.K.A: <Media omitted>
+19/02/26, 5:36 am - MUKESH.K.A: Ana bayagarama Iruku thalaivareee
+19/02/26, 5:51 am - MUKESH.K.A: <Media omitted>
+19/02/26, 3:17 pm - MUKESH.K.A: <Media omitted>
+19/02/26, 7:20 pm - MUKESH.K.A: <Media omitted>
+19/02/26, 10:55 pm - Srithar KASC: <Media omitted>
+19/02/26, 10:56 pm - Srithar KASC: Bro unaku exact ha eppadi bro venum
+19/02/26, 11:02 pm - Srithar KASC: This message was deleted
+19/02/26, 11:02 pm - Srithar KASC: This message was deleted
+19/02/26, 11:02 pm - Srithar KASC: This message was deleted
+19/02/26, 11:02 pm - Srithar KASC: This message was deleted
+19/02/26, 11:02 pm - Srithar KASC: This message was deleted
+19/02/26, 11:23 pm - Srithar KASC: Pathu sollu bro 👋
+19/02/26, 11:23 pm - Srithar KASC: <Media omitted>
+20/02/26, 5:54 am - MUKESH.K.A: ❤️
+20/02/26, 3:01 pm - Srithar KASC: QR code vanthuruchu bro
+20/02/26, 4:36 pm - MUKESH.K.A: Nyt solu epdi vara nu
+20/02/26, 4:36 pm - Srithar KASC: Ok bro
+20/02/26, 4:52 pm - MUKESH.K.A: bro enku clinic dashboard mattum venum bro
+20/02/26, 4:52 pm - Srithar KASC: How to get it?
+20/02/26, 4:53 pm - MUKESH.K.A: upload in github
+20/02/26, 4:53 pm - MUKESH.K.A: watch youtube and upload it in github and share the repo link
+20/02/26, 4:53 pm - MUKESH.K.A: with the help of AI try to know that
+20/02/26, 4:54 pm - Srithar KASC: Yeah bro 👍
+20/02/26, 5:08 pm - MUKESH.K.A: Bro call me
+20/02/26, 5:08 pm - MUKESH.K.A: Immediately broo..! We need to discuss
+20/02/26, 5:08 pm - Srithar KASC: 
+20/02/26, 5:39 pm - Srithar KASC: https://sridhar93600.github.io/clinic/
+20/02/26, 5:40 pm - MUKESH.K.A: 
+20/02/26, 5:40 pm - MUKESH.K.A: 
+20/02/26, 9:26 pm - MUKESH.K.A: location: https://maps.google.com/?q=12.2257548,79.0780984
+20/02/26, 9:27 pm - Srithar KASC: <Media omitted>
+20/02/26, 9:27 pm - Srithar KASC: Location correct ta nu pathu sollu bro
+20/02/26, 9:30 pm - MUKESH.K.A: Vijaya mall
+20/02/26, 9:30 pm - MUKESH.K.A: Pakathulaa Epic SuperMarket
+20/02/26, 9:30 pm - MUKESH.K.A: Illana Vijaya mall laa eragitu call pannu
+20/02/26, 9:30 pm - Srithar KASC: Ok bro
+20/02/26, 9:45 pm - MUKESH.K.A: vanthutiya brooo
+20/02/26, 9:47 pm - Srithar KASC: On the way
+20/02/26, 10:10 pm - Srithar KASC: https://github.com/Sridhar93600/clinic
+20/02/26, 10:10 pm - Srithar KASC: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: 
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: You deleted this message
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:44 am - MUKESH.K.A: <Media omitted>
+21/02/26, 9:55 am - Srithar KASC: <Media omitted>
+21/02/26, 10:20 am - MUKESH.K.A: 
+21/02/26, 10:20 am - MUKESH.K.A: <Media omitted>
+21/02/26, 10:20 am - MUKESH.K.A: <Media omitted>
+21/02/26, 10:20 am - MUKESH.K.A: <Media omitted>
+21/02/26, 4:53 pm - MUKESH.K.A: https://forms.gle/KJHMx2iM5Bu2hADm8
+21/02/26, 11:18 pm - Srithar KASC: ?
+22/02/26, 7:18 am - MUKESH.K.A: Reach aitiya broo ?
+22/02/26, 10:19 am - Srithar KASC: Mm
+22/02/26, 3:59 pm - MUKESH.K.A: https://luma.com/kbsp31bs
+22/02/26, 3:59 pm - MUKESH.K.A: You have golden opportunity man..!
+22/02/26, 4:00 pm - MUKESH.K.A: Learn Java Script within Mar 3 or 5 and go and attend th event
+22/02/26, 4:00 pm - MUKESH.K.A: You may get some knowledge about it..!
+22/02/26, 4:04 pm - MUKESH.K.A: 
+22/02/26, 4:04 pm - MUKESH.K.A: <Media omitted>
+22/02/26, 4:04 pm - MUKESH.K.A: <Media omitted>
+22/02/26, 5:21 pm - MUKESH.K.A: We’re Hiring: Freelance Web Designer | Zealvix
+
+Zealvix is expanding, and we’re looking for a skilled Freelance Web Designer to work with us on live client projects. If you’re passionate about designing modern, user-focused websites and want to collaborate on real-world work, we’d love to connect.
+
+Role Overview:
+
+• Freelance, project-based opportunity (not a permanent or fixed salary role)
+• You’ll be assigned tasks based on active client projects
+• Compensation will be client-based, and payments will be distributed once the client releases the project payment
+• Fully remote and flexible work environment
+• Opportunity to build strong portfolio projects and long-term collaboration with Zealvix
+
+Who should apply:
+
+• Designers with experience in website design (Figma, Webflow, WordPress, or similar tools)
+• Strong understanding of modern UI/UX principles
+• Reliable, professional, and able to meet deadlines
+• Freelancers looking for consistent project-based collaboration
+
+If this sounds like you, connect with us and send me a DM with your resume and portfolio.
+
+Disclaimer:
+Zealvix does not charge any fees from freelancers or applicants at any stage. If anyone claims to represent Zealvix and asks for payment, please report it to us immediately with proper proof. We take such matters seriously.
+
+Looking forward to building with talented designers.
+22/02/26, 5:21 pm - MUKESH.K.A: see how they exeptces and learn according to that!!!
+22/02/26, 6:47 pm - Srithar KASC: Ahh, thanks a lot bro 🫡
+22/02/26, 6:53 pm - Srithar KASC: Bro, event start's at 7 mar
+22/02/26, 6:53 pm - Srithar KASC: Sure bro
+22/02/26, 6:53 pm - Srithar KASC: You will come are not bro
+22/02/26, 7:57 pm - MUKESH.K.A: Bro I don't anything about the JS
+22/02/26, 7:57 pm - MUKESH.K.A: And if I come too there is no any use of that because my Domain is different ryt?
+22/02/26, 7:57 pm - MUKESH.K.A: Yesss broii
+22/02/26, 7:57 pm - MUKESH.K.A: Broo try to finish th Naan Mudhalvan tooo brooo
+23/02/26, 7:39 am - Srithar KASC: Ok bro
+23/02/26, 7:40 am - Srithar KASC: You are complete the naan mudhalvan ??
+23/02/26, 8:28 am - MUKESH.K.A: Yeaa broo
+04/03/26, 6:33 pm - MUKESH.K.A: 
+04/03/26, 6:33 pm - MUKESH.K.A: <Media omitted>
+04/03/26, 6:33 pm - MUKESH.K.A: <Media omitted>
+06/03/26, 7:43 pm - Srithar KASC: https://luma.com/kbsp31bs
+06/03/26, 7:46 pm - Srithar KASC: <Media omitted>
+06/03/26, 7:48 pm - Srithar KASC: <Media omitted>
+06/03/26, 7:48 pm - Srithar KASC: Intha pdf open agala bro
+06/03/26, 8:19 pm - MUKESH.K.A: <Media omitted>
+06/03/26, 10:30 pm - Srithar KASC: Ok bro
+06/03/26, 10:35 pm - MUKESH.K.A: Nalaiku poriya?
+06/03/26, 10:36 pm - Srithar KASC: Ama kumarey
+06/03/26, 10:37 pm - Srithar KASC: This message was deleted
+07/03/26, 7:02 am - MUKESH.K.A: Engs iruka?
+07/03/26, 7:22 am - Srithar KASC: Polur bus stand
+07/03/26, 7:49 am - Srithar KASC: Kilambakkam bus yeriten
+07/03/26, 8:18 am - MUKESH.K.A: 👍🏻🫡
+07/03/26, 8:18 am - MUKESH.K.A: Pathu poitu va paa..!
+07/03/26, 8:26 am - Srithar KASC: Ok pa
+07/03/26, 12:05 pm - Srithar KASC: 
+07/03/26, 12:05 pm - MUKESH.K.A: 
+07/03/26, 12:52 pm - Srithar KASC: Bro
+07/03/26, 12:52 pm - Srithar KASC: One doubt
+07/03/26, 1:04 pm - Srithar KASC: Late ta pona enna aakum
+07/03/26, 1:05 pm - MUKESH.K.A: Nothing happens broio
+07/03/26, 1:06 pm - Srithar KASC: <Media omitted>
+07/03/26, 1:06 pm - Srithar KASC: 2.40 ku than arambikirunga <This message was edited>
+07/03/26, 1:08 pm - MUKESH.K.A: Then okay problem ehh illa
+07/03/26, 1:08 pm - MUKESH.K.A: Poitu Ellaru kudaiyum pesu
+07/03/26, 1:08 pm - MUKESH.K.A: Bus eritiya?
+07/03/26, 1:08 pm - Srithar KASC: Mm poitu iruken
+07/03/26, 1:08 pm - MUKESH.K.A: Okay okay!
+07/03/26, 1:08 pm - Srithar KASC: Ok boss 🫡
+07/03/26, 2:16 pm - Srithar KASC: Bro reach aiten bro <This message was edited>
+08/03/26, 7:31 am - MUKESH.K.A: How was the meet broo?
+08/03/26, 10:05 am - Srithar KASC: All fine bro ☺️ <This message was edited>
+08/03/26, 10:14 am - MUKESH.K.A: Photos? Videos ? Ethavathu aduthiya?
+08/03/26, 10:15 am - MUKESH.K.A: Etha pathi pesunaga ?
+08/03/26, 10:15 am - MUKESH.K.A: Ena ellam peaurga?
+08/03/26, 10:17 am - Srithar KASC: 1 talk: MCP and skills topic I learnt new knowledge how to develop and design my web page
+08/03/26, 10:17 am - MUKESH.K.A: Nice..!
+08/03/26, 10:18 am - Srithar KASC: 2 talk: prompt engineering, spec driver my web perfect each and everything at the page ,
+08/03/26, 10:19 am - Srithar KASC: 3 talk: dev tools use how to debug solve
+08/03/26, 10:19 am - Srithar KASC: <Media omitted>
+08/03/26, 10:20 am - Srithar KASC: This photo only I have
+08/03/26, 10:20 am - Srithar KASC: Jslovers community get photo but not uploaded and send
+08/03/26, 10:21 am - MUKESH.K.A: 🤝🏻📈Nice bro..!
+08/03/26, 10:21 am - MUKESH.K.A: Keep upgrading 🫡
+08/03/26, 10:21 am - MUKESH.K.A: Okay🤝🏻👍🏻
+08/03/26, 10:21 am - Srithar KASC: I had new friends bro
+08/03/26, 10:24 am - Srithar KASC: 1st one IT developer, work professional...! 2nd mahenical engeneering IT professional...! 3rd college students 4 memeber senior when talk to able comfortable bro...! 🫡
+08/03/26, 10:26 am - MUKESH.K.A: Nice Bro !!!
+08/03/26, 10:26 am - MUKESH.K.A: See when you attend the event alone you got new friends
+08/03/26, 10:27 am - MUKESH.K.A: happy to hear this brooo
+08/03/26, 10:27 am - Srithar KASC: Yeah that asome bro...!🤗
+08/03/26, 10:27 am - Srithar KASC: But my home...?
+08/03/26, 10:28 am - Srithar KASC: Why you travel solo when scolding bro I feel like bad bro...!
+08/03/26, 10:29 am - MUKESH.K.A: Dont Care about those things broo
+08/03/26, 10:30 am - MUKESH.K.A: actually you did the good thing and this will help you in the life
+08/03/26, 10:30 am - Srithar KASC: Bro practical date announce pannitangala bro
+08/03/26, 10:30 am - MUKESH.K.A: pathukalam
+08/03/26, 10:30 am - MUKESH.K.A: inum 2days irukulaa pathukalam
+08/03/26, 10:31 am - Srithar KASC: Tuesday day va...?
+08/03/26, 10:32 am - Srithar KASC: Aprm college la women's day semmaya pannirukanga pola...🎉
+08/03/26, 10:33 am - MUKESH.K.A: Haan da nandhini mam status patha
+08/03/26, 10:33 am - MUKESH.K.A: I guess
+08/03/26, 10:33 am - Srithar KASC: Nadakuma nenacha nadathuruchi nadathuruchi...😂
+08/03/26, 10:45 am - Srithar KASC: <Media omitted>
+08/03/26, 10:46 am - Srithar KASC: Short time Memory loss 😅
+12/03/26, 7:20 am - Srithar KASC: Bro
+12/03/26, 8:26 am - MUKESH.K.A: Yess broo <This message was edited>
+12/03/26, 5:10 pm - Srithar KASC: Nalaiku dress veetla  iruthen pottu varalama...?
+12/03/26, 5:34 pm - MUKESH.K.A: Atha mam kita kekura?
+12/03/26, 5:34 pm - MUKESH.K.A: Epdi panna practical?
+12/03/26, 7:00 pm - Srithar KASC: Kettu sollu pa
+12/03/26, 7:00 pm - Srithar KASC: Mm Nala panom bro...!
+12/03/26, 7:00 pm - Srithar KASC: Pathu eluthanum
+12/03/26, 7:01 pm - Srithar KASC: But output yaarum kamikala
+12/03/26, 7:01 pm - Srithar KASC: Viva question answer panna, ok pa sonan...!
+12/03/26, 7:30 pm - MUKESH.K.A: Aduthutu vara soldraga
+12/03/26, 7:30 pm - MUKESH.K.A: <Media omitted>
+12/03/26, 7:53 pm - Srithar KASC: Ohh shittttttt
+12/03/26, 7:53 pm - Srithar KASC: 😑
+12/03/26, 7:56 pm - Srithar KASC: Nee enna dress bro 🤔
+12/03/26, 8:21 pm - MUKESH.K.A: Baggy type than
+12/03/26, 8:22 pm - MUKESH.K.A: Baggy pant potu vanthudalam nu iruken..!
+12/03/26, 8:22 pm - MUKESH.K.A: Pesama Nalaiku leave potudata?
+12/03/26, 8:22 pm - MUKESH.K.A: Practical epo mudichi ? Epo vanthiga?
+12/03/26, 8:59 pm - Srithar KASC: Kurtha style try pannalam iruken
+12/03/26, 9:00 pm - Srithar KASC: 3.00 clock muchichu naa veetuku 5.00 vanthan bro
+12/03/26, 9:01 pm - Srithar KASC: Bro pathukalam 🫡
+12/03/26, 9:01 pm - Srithar KASC: Nee vaa
+12/03/26, 9:01 pm - Srithar KASC: Next week venuna leave podalam ...!
+12/03/26, 9:02 pm - Srithar KASC: One day celebration 🎊
+12/03/26, 9:02 pm - Srithar KASC: Aprm...ethuva iruthalum
+12/03/26, 9:06 pm - MUKESH.K.A: Enku suthama idea illa daah..! Polam nu soludriya ?
+12/03/26, 9:06 pm - MUKESH.K.A: Epdi pona?
+12/03/26, 9:06 pm - MUKESH.K.A: Bus?
+12/03/26, 9:07 pm - Srithar KASC: Money
+12/03/26, 9:07 pm - Srithar KASC: Mam kitta irunthu 100 rs vanganom
+12/03/26, 9:07 pm - MUKESH.K.A: 😬
+12/03/26, 9:07 pm - MUKESH.K.A: Kastam daaah
+12/03/26, 9:07 pm - Srithar KASC: Enna kastam
+12/03/26, 9:08 pm - MUKESH.K.A: Like aga iruthu poi bus pudichi ponum laaa
+12/03/26, 9:08 pm - Srithar KASC: Ama bro
+12/03/26, 9:09 pm - Srithar KASC: Next week irunthu sports and games nadathuranga bro
+12/03/26, 9:09 pm - Srithar KASC: Venum naa apa leave podalam
+12/03/26, 9:10 pm - Srithar KASC: <Media omitted>
+12/03/26, 9:10 pm - Srithar KASC: Nalaiku vaa bro
+12/03/26, 9:10 pm - Srithar KASC: Naane una nambi than iruken
+12/03/26, 9:11 pm - MUKESH.K.A: Enku epo suthama idea poiduchu daaa
+12/03/26, 9:12 pm - Srithar KASC: Same bro
+12/03/26, 9:13 pm - MUKESH.K.A: Enada rules poraga..!
+12/03/26, 9:13 pm - MUKESH.K.A: Muta pasaga mariii..!
+12/03/26, 9:13 pm - MUKESH.K.A: Epo ena pannalam?
+12/03/26, 9:13 pm - Srithar KASC: Nee sollu bro
+12/03/26, 9:14 pm - MUKESH.K.A: Idea illa daa
+12/03/26, 9:14 pm - MUKESH.K.A: Pesama na leave poturalam nu iruken broo..!
+12/03/26, 9:15 pm - Srithar KASC: Practical over..!
+12/03/26, 9:15 pm - MUKESH.K.A: Yes..!
+12/03/26, 9:15 pm - Srithar KASC: Hall ticket and exam ku mattum vantha pothum
+12/03/26, 9:15 pm - MUKESH.K.A: Haan..!
+12/03/26, 9:15 pm - Srithar KASC: Attendance percentage iruku
+12/03/26, 9:15 pm - MUKESH.K.A: Nanum atha pakkuren..!
+12/03/26, 9:16 pm - MUKESH.K.A: Yes..!!!
+12/03/26, 9:16 pm - Srithar KASC: Present podulam perchana illai
+12/03/26, 9:16 pm - MUKESH.K.A: Like Nalaiku pasaga kita soli..! Present mattum poda solidalam..!
+12/03/26, 9:16 pm - Srithar KASC: Mm
+12/03/26, 9:17 pm - Srithar KASC: Sogama irukiya bro
+12/03/26, 9:17 pm - Srithar KASC: Nee practical epadi panna bro
+12/03/26, 9:32 pm - MUKESH.K.A: Ethoo daaa
+12/03/26, 9:32 pm - MUKESH.K.A: Illa irrating ahh iruku
+13/03/26, 7:39 am - MUKESH.K.A: Broi
+13/03/26, 7:39 am - MUKESH.K.A: Na inku varala
+13/03/26, 7:39 am - MUKESH.K.A: Present poturu broo marakama!
+13/03/26, 8:18 am - Srithar KASC: Ok dude
+13/03/26, 11:57 am - Srithar KASC: Epadi oii iruka
+13/03/26, 1:52 pm - MUKESH.K.A: Iruken
+13/03/26, 1:59 pm - Srithar KASC: Bore ra irunthuchi bro
+13/03/26, 1:59 pm - Srithar KASC: Onnumey nadakala
+13/03/26, 2:16 pm - MUKESH.K.A: Ena Achu?
+13/03/26, 2:16 pm - MUKESH.K.A: Epdi pochu?
+13/03/26, 2:16 pm - MUKESH.K.A: Yen?
+13/03/26, 2:16 pm - MUKESH.K.A: Ethuku phone aduthtu vara sonagala?
+13/03/26, 2:26 pm - Srithar KASC: Suma songa
+13/03/26, 2:27 pm - Srithar KASC: Fashion show ku costume la eduthu poitu kupadavey illa 🙃
+13/03/26, 2:33 pm - MUKESH.K.A: Ena broo soldra?
+13/03/26, 2:33 pm - MUKESH.K.A: Yen?
+13/03/26, 2:33 pm - MUKESH.K.A: Atleast dress eh potigala illaye?
+13/03/26, 2:34 pm - Srithar KASC: Illa bro 😶
+13/03/26, 2:34 pm - MUKESH.K.A: Ada pavii gala
+13/03/26, 2:34 pm - MUKESH.K.A: Aprm ena tha pannigaa!?
+13/03/26, 2:35 pm - Srithar KASC: Ana 3rd year Nala enjoy panni iruganga
+13/03/26, 2:35 pm - MUKESH.K.A: Haan..! Avaga laa fashion show Pannagala?
+13/03/26, 2:35 pm - Srithar KASC: Mm
+13/03/26, 2:36 pm - MUKESH.K.A: Class la tha iruthugala? Illa neegalaum pathigala fashion show laaa?
+13/03/26, 2:36 pm - Srithar KASC: Class than irudhon
+13/03/26, 2:36 pm - MUKESH.K.A: Leave eh potu irukalam pola 😶
+13/03/26, 2:36 pm - Srithar KASC: Period nadakala
+13/03/26, 2:37 pm - MUKESH.K.A: Aprm ena panniga?
+13/03/26, 2:37 pm - Srithar KASC: Better bro
+13/03/26, 2:37 pm - Srithar KASC: Suma 5 periods okanthu iruthom
+13/03/26, 2:37 pm - Srithar KASC: Ipa bus la varen
+13/03/26, 2:37 pm - MUKESH.K.A: Teacher yarrum class ku varala?
+13/03/26, 2:38 pm - MUKESH.K.A: Seriii ryt..!
+13/03/26, 2:38 pm - Srithar KASC: Teacher vandhu aii oii aii oii solinu irunthanga
+13/03/26, 2:38 pm - MUKESH.K.A: Kadupu daaa
+13/03/26, 2:38 pm - MUKESH.K.A: Seriii vidu..!
+13/03/26, 2:38 pm - MUKESH.K.A: Vittuku poitu rest adu..!
+13/03/26, 2:39 pm - MUKESH.K.A: Present potacha daaa? Enku?
+13/03/26, 2:39 pm - Srithar KASC: Sema kadupu bro
+13/03/26, 2:39 pm - Srithar KASC: Mm
+13/03/26, 2:39 pm - MUKESH.K.A: 🫂vidu daah pathukalam..! Evaga ena 3rd yr mattum tha pakkuraga..! Vidu..!
+13/03/26, 2:39 pm - Srithar KASC: Mm
+13/03/26, 2:39 pm - MUKESH.K.A: Nandrigal
+13/03/26, 2:40 pm - MUKESH.K.A: Seriii nee parru..! Na konjum velila poren vanthu txt pandren
+13/03/26, 2:40 pm - Srithar KASC: Mika Mika nandrigal
+13/03/26, 2:40 pm - Srithar KASC: Ok dude
+13/03/26, 2:40 pm - Srithar KASC: Nee yen varala bro
+13/03/26, 2:40 pm - MUKESH.K.A: Na tha nethe sona nehh broo suthama idea illa nu
+13/03/26, 2:41 pm - Srithar KASC: Ivanga kettutey irunganga bro
+13/03/26, 2:41 pm - MUKESH.K.A: Yarru?
+13/03/26, 2:41 pm - MUKESH.K.A: Kekuraga?
+13/03/26, 2:41 pm - Srithar KASC: Tamil, susi
+13/03/26, 2:42 pm - MUKESH.K.A: Nee ena sona?
+13/03/26, 2:42 pm - MUKESH.K.A: Broo na epo kelaburen na poitu vanthutu txt pandren..!
+13/03/26, 2:42 pm - Srithar KASC: Ivanga ley matti vitturuvanga
+13/03/26, 2:42 pm - Srithar KASC: Ok dude
+13/03/26, 3:13 pm - MUKESH.K.A: Ana onum prblm illa laa daa
+13/03/26, 4:01 pm - Srithar KASC: Illa bro
+13/03/26, 11:37 pm - Srithar KASC: https://www.instagram.com/reel/DSuiJLwEjqg/?igsh=MWVpdWl1Y20yY2Z3dw==
+14/03/26, 10:12 am - Srithar KASC: Yeah, she could speak right thing bro
+14/03/26, 10:14 am - Srithar KASC: People different but feeling are same...!
+14/03/26, 3:16 pm - MUKESH.K.A: Yeaaa
+14/03/26, 3:17 pm - Srithar KASC: Bro you know something...!
+14/03/26, 3:17 pm - Srithar KASC: Srm college conduct 24hrs hackathon bro..,😶
+14/03/26, 3:54 pm - MUKESH.K.A: When?
+14/03/26, 3:54 pm - MUKESH.K.A: Shall we?
+15/03/26, 9:22 am - Srithar KASC: Mudinchi bro
+15/03/26, 10:44 am - MUKESH.K.A: Bro Nalaiku namaku leave ahhh?
+15/03/26, 12:56 pm - Srithar KASC: Ama bro 1 week leave enjoy
+16/03/26, 8:59 am - Srithar KASC: https://www.instagram.com/reel/DU698aTD-gB/?igsh=cDdqaWhqb25qZnho
+16/03/26, 8:59 am - Srithar KASC: Unmaiya bro 😑
+16/03/26, 9:57 am - Srithar KASC: Bro
+16/03/26, 9:58 am - MUKESH.K.A: Soluu
+16/03/26, 9:58 am - MUKESH.K.A: Brooo
+16/03/26, 9:59 am - Srithar KASC: Namaku lab
+16/03/26, 9:59 am - Srithar KASC: Lab la enna ponuvom
+16/03/26, 10:00 am - Srithar KASC: Elarum call panni online class eppa da kelu da solli savadikiranga bro...! 😭 <This message was edited>
+16/03/26, 10:01 am - Srithar KASC: As a rep pathil sollu bro
+16/03/26, 10:03 am - MUKESH.K.A: Crt ehh brooo
+16/03/26, 12:23 pm - Srithar KASC: Bro
+16/03/26, 12:24 pm - Srithar KASC: Phone la charge illa polam a kettu sollu bro
+16/03/26, 12:27 pm - MUKESH.K.A: 25mins class tha irukom
+16/03/26, 12:27 pm - MUKESH.K.A: Ana onume aduka maturaru
+17/03/26, 2:00 pm - MUKESH.K.A: <Media omitted>
+17/03/26, 2:00 pm - MUKESH.K.A: Broo itha evana parru eh
+17/03/26, 2:01 pm - Srithar KASC: Enna ennaku onum puriyala...! 😶
+17/03/26, 2:02 pm - MUKESH.K.A: Samathame illa ma
+17/03/26, 2:02 pm - MUKESH.K.A: Call
+17/03/26, 2:03 pm - MUKESH.K.A: Panna ahh
+17/03/26, 2:03 pm - MUKESH.K.A: Na attend panala
+17/03/26, 2:03 pm - MUKESH.K.A: So message laa soldra nu sona
+17/03/26, 2:03 pm - Srithar KASC: Mm ok
+17/03/26, 2:03 pm - MUKESH.K.A: Na pattu keka poren
+17/03/26, 2:03 pm - MUKESH.K.A: Na pattu keka pora nu
+17/03/26, 2:03 pm - MUKESH.K.A: Solitu iruka
+17/03/26, 2:03 pm - MUKESH.K.A: Ethuku call panna
+17/03/26, 2:03 pm - MUKESH.K.A: Ethuku soldra
+17/03/26, 2:03 pm - Srithar KASC: 🤣
+17/03/26, 2:03 pm - MUKESH.K.A: Onume Puriyala 😬
+17/03/26, 2:04 pm - Srithar KASC: Aiyoooo
+17/03/26, 2:04 pm - MUKESH.K.A: Epo etha na yen unkita soldra nee therla 🤣
+17/03/26, 2:04 pm - Srithar KASC: Enna pesuran avanke Theriyala
+17/03/26, 2:05 pm - Srithar KASC: Orey fun than pola 😂😂
+17/03/26, 2:05 pm - Srithar KASC: Some apple 🍎 Fizz consume panni irukana 😅
+17/03/26, 2:06 pm - Srithar KASC: Macha....🙈
+17/03/26, 2:07 pm - Srithar KASC: Naa pattu kekuren...🥸
+17/03/26, 2:07 pm - Srithar KASC: Dai naa pattu keka poren ....🤡
+17/03/26, 2:29 pm - Srithar KASC: Bro naa avanuku call panni tu intha message annuputa...! 😁
+17/03/26, 3:02 pm - MUKESH.K.A: Yen daaa
+17/03/26, 3:03 pm - MUKESH.K.A: 🤣
+17/03/26, 3:04 pm - Srithar KASC: Summa try pannuvom
+17/03/26, 3:05 pm - Srithar KASC: 
+17/03/26, 3:06 pm - MUKESH.K.A: Vena daaa
+17/03/26, 3:07 pm - MUKESH.K.A: Enkita already data illa daaa
+17/03/26, 3:17 pm - Srithar KASC: Ok dude
+20/03/26, 9:53 am - Srithar KASC: Mukesh bro notes pdf send panna Nala irukum 🙃
+20/03/26, 9:54 am - MUKESH.K.A: <Media omitted>
+20/03/26, 9:57 am - Srithar KASC: Nanrigal bro 👍
+20/03/26, 12:13 pm - Srithar KASC: Bro
+20/03/26, 12:13 pm - Srithar KASC: Attendance sollu bro
+20/03/26, 12:21 pm - Srithar KASC: Tamil attendance miss panita kumarey
+20/03/26, 12:22 pm - MUKESH.K.A: Class mudicha?
+20/03/26, 12:22 pm - Srithar KASC: Mm
+20/03/26, 12:23 pm - Srithar KASC: Call panna poga mattukidu
+20/03/26, 12:23 pm - MUKESH.K.A: 😬
+20/03/26, 10:45 pm - MUKESH.K.A: https://www.instagram.com/reel/DULLYaYiDaB/?igsh=MTJ1NHpuYTR6eGx1Zw==
+20/03/26, 10:45 pm - MUKESH.K.A: Etha mariii edit panni thara mudiyuma broo..!?
+20/03/26, 11:26 pm - Srithar KASC: I will try bro...!
+20/03/26, 11:27 pm - Srithar KASC: Ennaku Naalaiku time kodu Capcut epadi use pandrathu nu pathutu varen
+20/03/26, 11:27 pm - Srithar KASC: 😎👊
+20/03/26, 11:28 pm - Srithar KASC: Bro naa iap ella passionate work try panalam iruken bro
+20/03/26, 11:29 pm - Srithar KASC: Like artist, editor, sports etc..!
+20/03/26, 11:32 pm - Srithar KASC: Bro unnaku nalaiku venuma ?
+21/03/26, 6:21 am - MUKESH.K.A: Mudiyuma?
+21/03/26, 6:21 am - MUKESH.K.A: Na clips record panni send pandren
+21/03/26, 10:40 am - Srithar KASC: Friends kitta kekuran
+21/03/26, 10:41 am - Srithar KASC: Clips ready pannu bro
+21/03/26, 9:18 pm - Srithar KASC: Bro na enn friend kitta ketten ipa mudiyathu nu sonna
+21/03/26, 9:19 pm - Srithar KASC: Nee clip ready pannitu sollu bro naa edit panni tharen...! 👊
+21/03/26, 9:25 pm - MUKESH.K.A: Nanrigal
+21/03/26, 9:25 pm - MUKESH.K.A: na pannitu soldren
+21/03/26, 9:43 pm - MUKESH.K.A: 
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:43 pm - MUKESH.K.A: <Media omitted>
+21/03/26, 9:44 pm - MUKESH.K.A: Sample mariii first panni paaru..! Aprm Nala try Pannalam
+22/03/26, 3:36 pm - Srithar KASC: This message was deleted
+22/03/26, 3:36 pm - Srithar KASC: <Media omitted>
+22/03/26, 3:37 pm - Srithar KASC: Clips naraya Venum bro
+22/03/26, 3:37 pm - Srithar KASC: Ithu mari ok va
+22/03/26, 5:21 pm - MUKESH.K.A: Okay..! Sound and then change pannidalam
+22/03/26, 5:21 pm - MUKESH.K.A: Broo
+22/03/26, 5:21 pm - MUKESH.K.A: Nalaiku enala changes Iruku?
+22/03/26, 6:08 pm - Srithar KASC: Puriyala eh bro..? 🤔
+22/03/26, 6:09 pm - MUKESH.K.A: 
+22/03/26, 6:10 pm - MUKESH.K.A: Call me bro
+22/03/26, 7:53 pm - Srithar KASC: 
+22/03/26, 8:34 pm - Srithar KASC: <Media omitted>
+31/03/26, 7:16 pm - MUKESH.K.A: Dude Nalaiku Na vara maten
+31/03/26, 7:16 pm - MUKESH.K.A: You deleted this message
+31/03/26, 7:16 pm - MUKESH.K.A: Present potuduga..!
+31/03/26, 7:17 pm - Srithar KASC: Why bro
+31/03/26, 7:17 pm - MUKESH.K.A: Nalaiku vanthu suma tha irukanum sooo vittula irukalam nu
+31/03/26, 7:17 pm - Srithar KASC: Enaku bore adikumey..!
+31/03/26, 7:18 pm - MUKESH.K.A: Enku suthama idea illa daaa
+31/03/26, 7:18 pm - MUKESH.K.A: Nalaiku varathuku
+31/03/26, 7:18 pm - MUKESH.K.A: Namaku Nan Mudhalvan Thursday tha irukuma
+31/03/26, 7:18 pm - MUKESH.K.A: Slip laa Absent nu mattum podathiga..!
+31/03/26, 7:18 pm - Srithar KASC: Enna naan mudhalvan??
+31/03/26, 7:19 pm - Srithar KASC: Athu vidu bro naan pathukuren
+31/03/26, 7:19 pm - MUKESH.K.A: Nan Mudhalvan ku practical Iruku daa
+31/03/26, 7:20 pm - Srithar KASC: Question etha vathu kepangala
+31/03/26, 7:20 pm - MUKESH.K.A: Ama daa
+31/03/26, 7:20 pm - Srithar KASC: Question iruka
+31/03/26, 7:20 pm - MUKESH.K.A: Illa
+31/03/26, 7:21 pm - MUKESH.K.A: English mam sonaga
+31/03/26, 7:21 pm - MUKESH.K.A: Questions kepaga nu
+31/03/26, 7:21 pm - MUKESH.K.A: Romba General tha irukum nu sonaaga
+31/03/26, 7:21 pm - MUKESH.K.A: Like about yourself atha mariii..!
+31/03/26, 7:21 pm - Srithar KASC: Apa vidu pathukalam
+31/03/26, 7:22 pm - MUKESH.K.A: Han
+01/04/26, 2:33 pm - Srithar KASC: Bro
+01/04/26, 2:34 pm - Srithar KASC: Group la irutha message delete aiyuducha
+01/04/26, 2:34 pm - Srithar KASC: Aprm naan mudhalvan question send pannunga
+01/04/26, 3:12 pm - MUKESH.K.A: Enkita ethvum illaye daaa
+01/04/26, 3:13 pm - MUKESH.K.A: Nalaiku practical ahh pathi ena sonaga?
+01/04/26, 3:13 pm - Srithar KASC: Written and viva
+01/04/26, 3:16 pm - Srithar KASC: Present poduten bro...!
+01/04/26, 3:17 pm - Srithar KASC: Today similar to Monday
+01/04/26, 3:20 pm - MUKESH.K.A: Onume nadakalaiya?
+01/04/26, 3:20 pm - MUKESH.K.A: Ena Achu?
+01/04/26, 3:20 pm - Srithar KASC: Nothing
+01/04/26, 3:20 pm - Srithar KASC: Summa than
+01/04/26, 3:21 pm - Srithar KASC: Cia 3 aprm naan varamatan nee enakum present poduriya
+01/04/26, 3:21 pm - Srithar KASC: 2 or 3 days
+01/04/26, 3:21 pm - Srithar KASC: It's very very very boring 😔
+01/04/26, 3:22 pm - MUKESH.K.A: Cia 3 ku aprm college irukuma?
+01/04/26, 3:22 pm - MUKESH.K.A: Mudiyala daaa
+01/04/26, 3:22 pm - Srithar KASC: Mm
+01/04/26, 3:22 pm - Srithar KASC: Mood iruntha cultural & trip papen
+01/04/26, 3:22 pm - MUKESH.K.A: Na trip varala
+01/04/26, 3:23 pm - Srithar KASC: Illa na leave than
+01/04/26, 3:23 pm - MUKESH.K.A: Enku oru work Iruku
+01/04/26, 3:23 pm - Srithar KASC: Enna work
+01/04/26, 3:23 pm - MUKESH.K.A: Family oda Kovil ku poren
+01/04/26, 3:23 pm - Srithar KASC: Enjoy 😊
+01/04/26, 3:23 pm - Srithar KASC: Principal college add pannana
+01/04/26, 3:24 pm - Srithar KASC: Bro nalaiku nee chapati or any food item
+01/04/26, 3:24 pm - Srithar KASC: Yeduthu va bro
+01/04/26, 3:24 pm - Srithar KASC: Naa curd rice 🍚
+01/04/26, 3:25 pm - Srithar KASC: Tamil noodles 🥮
+01/04/26, 3:31 pm - MUKESH.K.A: Illa broo
+01/04/26, 3:31 pm - MUKESH.K.A: Nalaiku 1.20pm mela college irukuma ena?
+01/04/26, 3:31 pm - Srithar KASC: Theriyala
+01/04/26, 3:31 pm - Srithar KASC: May be?
+01/04/26, 3:54 pm - MUKESH.K.A: Ena da soldra
+01/04/26, 3:54 pm - Srithar KASC: Illa than
+01/04/26, 3:54 pm - Srithar KASC: Ana ennaku pasikumla...! 😭
+01/04/26, 4:38 pm - MUKESH.K.A: Crt uh ..!
+01/04/26, 6:41 pm - Srithar KASC: Bro Kovil ponna, toys la vangitu varuviya...! ✨
+01/04/26, 6:47 pm - MUKESH.K.A: 🤣 pakkuraa
+07/04/26, 2:15 pm - Srithar KASC: 
+07/04/26, 2:15 pm - Srithar KASC: <Media omitted>
+07/04/26, 2:15 pm - Srithar KASC: <Media omitted>
+07/04/26, 2:15 pm - Srithar KASC: <Media omitted>
+07/04/26, 2:15 pm - Srithar KASC: This are my suggestion
+07/04/26, 2:53 pm - MUKESH.K.A: You deleted this message
+07/04/26, 2:53 pm - MUKESH.K.A: You deleted this message
+07/04/26, 2:53 pm - MUKESH.K.A: You deleted this message
+07/04/26, 2:53 pm - MUKESH.K.A: You deleted this message
+07/04/26, 2:53 pm - MUKESH.K.A: You deleted this message
+07/04/26, 3:42 pm - MUKESH.K.A: <Media omitted>
+07/04/26, 4:28 pm - Srithar KASC: Innom kojam premium look Venum bro
+07/04/26, 4:58 pm - Srithar KASC: <Media omitted>
+07/04/26, 5:28 pm - MUKESH.K.A: But looks like AI generated
+07/04/26, 5:29 pm - MUKESH.K.A: Okay nama thani thaniya present pannuvom..!
+07/04/26, 5:29 pm - Srithar KASC: Nala Iruku la bro
+07/04/26, 5:30 pm - MUKESH.K.A: Haan Nala Iruku..!
+07/04/26, 5:30 pm - MUKESH.K.A: This is okay for event or occasionally but we need a simple logo that's should be fit in every where..!
+07/04/26, 5:31 pm - Srithar KASC: Ok two logos submit pannuvom
+07/04/26, 5:32 pm - Srithar KASC: Class mam kitta review keppom
+07/04/26, 5:32 pm - Srithar KASC: 👊
+07/04/26, 5:33 pm - MUKESH.K.A: Okay..!!!
+07/04/26, 5:33 pm - MUKESH.K.A: 🤜🏻🤛🏻
+07/04/26, 5:51 pm - Srithar KASC: Oi
+07/04/26, 5:51 pm - Srithar KASC: Ooi
+07/04/26, 5:51 pm - MUKESH.K.A: Yesss bruh?
+07/04/26, 5:52 pm - Srithar KASC: Yevalo neram message pandra
+07/04/26, 5:52 pm - Srithar KASC: Ummmm
+07/04/26, 5:52 pm - Srithar KASC: Mam pakavey illa bro 😑
+07/04/26, 5:53 pm - MUKESH.K.A: Yarru?
+07/04/26, 5:53 pm - Srithar KASC: Enna yaru
+07/04/26, 5:54 pm - MUKESH.K.A: Etha mam ku msg panna ahh? Yarru pakkala?
+07/04/26, 5:54 pm - MUKESH.K.A: Na nama class teacher ku call eh panna avaga edukave illa
+07/04/26, 5:54 pm - Srithar KASC: Class mam ku
+07/04/26, 5:55 pm - MUKESH.K.A: Yup
+07/04/26, 5:55 pm - Srithar KASC: Enna da ithu...!
+07/04/26, 5:55 pm - MUKESH.K.A: 🫪
+07/04/26, 5:55 pm - Srithar KASC: <Media omitted>
+07/04/26, 5:56 pm - MUKESH.K.A: <Media omitted>
+07/04/26, 5:57 pm - Srithar KASC: Enna ma neenga ipadi pandrigale ma...! 😭
+07/04/26, 5:58 pm - Srithar KASC: Mam online vanthanga poitanga...! Wtf
+08/04/26, 5:00 pm - MUKESH.K.A: Broo call pannu uh..!
+08/04/26, 5:00 pm - Srithar KASC: Yenn
+08/04/26, 5:00 pm - Srithar KASC: Why why
+08/04/26, 5:00 pm - Srithar KASC: Why
+08/04/26, 5:00 pm - Srithar KASC: Ehy
+08/04/26, 5:06 pm - MUKESH.K.A: Dance nahh..! Nama college laa stay pannum bro..! Evening varathuku bus illa..!
+08/04/26, 5:06 pm - MUKESH.K.A: Epo ena pannalam?
+08/04/26, 5:06 pm - Srithar KASC: Bus illa songala
+08/04/26, 5:07 pm - Srithar KASC: Kettu pathutu sollu...! Bro
+08/04/26, 5:08 pm - MUKESH.K.A: Ama bro ipo tha na mam kita keten..!
+08/04/26, 5:08 pm - Srithar KASC: OMG 😳
+08/04/26, 5:09 pm - Srithar KASC: Cancel pannidalama...!??
+08/04/26, 5:09 pm - MUKESH.K.A: Atha enkum thonuthu..!
+08/04/26, 5:10 pm - Srithar KASC: Next week class nadakuma ma...?
+08/04/26, 5:17 pm - MUKESH.K.A: Nadakum tha naikuren
+08/04/26, 5:18 pm - MUKESH.K.A: Probably irukum tha naikuren
+08/04/26, 5:18 pm - Srithar KASC: Enna da college vechitu aprm eppadi practice pandrathan...!
+08/04/26, 5:19 pm - Srithar KASC: Loosu pasanga...!
+08/04/26, 5:27 pm - MUKESH.K.A: Atha enkum Puriyala
+08/04/26, 5:27 pm - MUKESH.K.A: You deleted this message
+08/04/26, 5:58 pm - Srithar KASC: Enna pannalam bro...!
+08/04/26, 6:15 pm - MUKESH.K.A: Therla
+08/04/26, 6:15 pm - MUKESH.K.A: Broo
+08/04/26, 6:16 pm - MUKESH.K.A: Nalaiku maths exam vera..! Athu oru Pakkam
+08/04/26, 8:00 pm - MUKESH.K.A: <Media omitted>
+08/04/26, 8:02 pm - Srithar KASC: Oyyyo
+08/04/26, 8:02 pm - Srithar KASC: Prime STR is back...!
+08/04/26, 8:02 pm - Srithar KASC: 👊
+08/04/26, 8:02 pm - Srithar KASC: Who is the camera man...! Your brother right ▶️
+08/04/26, 8:04 pm - Srithar KASC: <Media omitted>
+08/04/26, 8:09 pm - MUKESH.K.A: Yup
+08/04/26, 8:09 pm - MUKESH.K.A: Starting
+08/04/26, 8:10 pm - MUKESH.K.A: <Media omitted>
+08/04/26, 8:10 pm - Srithar KASC: Onion dosa va...! 😋
+08/04/26, 8:10 pm - MUKESH.K.A: Yeaa
+08/04/26, 8:12 pm - Srithar KASC: Enathu kandu pudi pakalam...!
+08/04/26, 8:12 pm - MUKESH.K.A: ?
+08/04/26, 8:12 pm - Srithar KASC: <Media omitted>
+08/04/26, 8:12 pm - MUKESH.K.A: 👊🏻
+08/04/26, 8:12 pm - MUKESH.K.A: Kali
+08/04/26, 8:13 pm - Srithar KASC: Yeah! That's right bro
+08/04/26, 8:13 pm - MUKESH.K.A: Side dish?
+08/04/26, 8:13 pm - Srithar KASC: Carrot sambar...! Adi polii 🤤
+08/04/26, 8:17 pm - MUKESH.K.A: Groundnut chetney tooo
+09/04/26, 6:55 pm - Srithar KASC: 
+09/04/26, 7:01 pm - MUKESH.K.A: 
+09/04/26, 8:53 pm - MUKESH.K.A: <Media omitted>
+09/04/26, 8:56 pm - MUKESH.K.A: send the details now bro!!!!
+09/04/26, 8:58 pm - MUKESH.K.A: Bro!!!!
+09/04/26, 8:58 pm - MUKESH.K.A: Are You there??
+09/04/26, 9:19 pm - Srithar KASC: Kojam busya iruken bro
+09/04/26, 9:53 pm - Srithar KASC: Sridhar E
+09/04/26, 9:53 pm - Srithar KASC: Male
+09/04/26, 9:53 pm - Srithar KASC: 10.05.2007
+09/04/26, 9:53 pm - Srithar KASC: Mbc
+09/04/26, 9:53 pm - Srithar KASC: 9360027918
+09/04/26, 9:54 pm - Srithar KASC: Sridhar93600@gmail.com
+09/04/26, 9:54 pm - Srithar KASC: Bsc computer science
+09/04/26, 9:55 pm - Srithar KASC: Year 1st
+09/04/26, 9:57 pm - Srithar KASC: <Media omitted>
+09/04/26, 9:58 pm - Srithar KASC: Adhar: 6082 6926 0182
+09/04/26, 9:58 pm - Srithar KASC: Ok va bro 👍
+15/04/26, 1:06 pm - Srithar KASC: Ethana solli samalochi co bro...!
+15/04/26, 1:48 pm - MUKESH.K.A: Nane vittuku vanthuten
+15/04/26, 1:48 pm - MUKESH.K.A: Luss ku college daaa
+15/04/26, 2:05 pm - Srithar KASC: Yenn da??
+15/04/26, 2:05 pm - Srithar KASC: Ennachi
+15/04/26, 2:05 pm - Srithar KASC: Fight ha??
+15/04/26, 3:51 pm - MUKESH.K.A: Nothing dude
+15/04/26, 3:51 pm - MUKESH.K.A: Logo submit panniten
+15/04/26, 4:06 pm - Srithar KASC: Enna sonanga
+15/04/26, 4:07 pm - Srithar KASC: Yenn veetuku vantha? Comparing illa...!
+15/04/26, 4:35 pm - MUKESH.K.A: Illa daaa
+15/04/26, 4:35 pm - MUKESH.K.A: Onume solala name mattum eluthi thara sonaga
+16/04/26, 6:43 pm - Srithar KASC: Bro
+16/04/26, 6:44 pm - Srithar KASC: Cultural announcement information sonninga Nala irukum
+17/04/26, 3:49 pm - MUKESH.K.A: Broo na irukuraa place ku vaaah
+19/04/26, 4:30 pm - Srithar KASC: Bro
+19/04/26, 4:30 pm - Srithar KASC: Hackathon eppa bro...?
+19/04/26, 5:12 pm - MUKESH.K.A: Pathu soldren
+20/04/26, 3:54 pm - Srithar KASC: <Media omitted>
+20/04/26, 4:40 pm - MUKESH.K.A: Superb bro
+21/04/26, 12:32 pm - Srithar KASC: enna bro assignment kudukuranga...! 🥲 <This message was edited>
+21/04/26, 12:33 pm - MUKESH.K.A: Atha daaah
+21/04/26, 12:33 pm - Srithar KASC: Yaaru enna yezhuthanun therila.?
+21/04/26, 12:33 pm - Srithar KASC: Fail ana
+21/04/26, 12:34 pm - MUKESH.K.A: 🫪 MindFuck pandraga brooo
+21/04/26, 12:34 pm - Srithar KASC: First la iruthen pannitu than iruganga..!
+21/04/26, 12:37 pm - Srithar KASC: Ipa enna pandrathu 🙄
+25/04/26, 3:38 pm - Srithar KASC: Bro enn maths note unkita than iruka..?
+25/04/26, 4:08 pm - MUKESH.K.A: Ama broo
+26/04/26, 2:57 pm - MUKESH.K.A: Maths mudichitiya broo?
+26/04/26, 2:57 pm - MUKESH.K.A: Maths mudichitana send panna uhh..!
+26/04/26, 3:05 pm - Srithar KASC: Ok send pannu pa..!
+26/04/26, 3:06 pm - Srithar KASC: 1 assignment yezhutha La.._
+26/04/26, 3:06 pm - Srithar KASC: Verupa Iruku 😑
+26/04/26, 6:20 pm - MUKESH.K.A: Nee send pannupa
+26/04/26, 6:21 pm - Srithar KASC: Naantha yezuthavey illaiyeh..!
+26/04/26, 6:21 pm - Srithar KASC: Note unkita iruku
+26/04/26, 8:17 pm - MUKESH.K.A: Athula ethu nu enku therla..! Dahh
+26/04/26, 9:18 pm - Srithar KASC: Sari naa yezhuthitu anupuren..! 👍
+27/04/26, 6:04 pm - Srithar KASC: Bro
+27/04/26, 6:04 pm - Srithar KASC: 1 doubt
+27/04/26, 6:20 pm - Srithar KASC: This message was deleted
+27/04/26, 6:21 pm - Srithar KASC: This message was deleted
+27/04/26, 7:24 pm - Srithar KASC: This message was deleted
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+27/04/26, 7:29 pm - Srithar KASC: <Media omitted>
+10/05/26, 7:44 am - MUKESH.K.A: Happy Birthday bro✨ <This message was edited>
+10/05/26, 7:46 am - Srithar KASC: Thanks bro 🙏✨
+26/05/26, 6:53 am - Srithar KASC: Bro
+26/05/26, 6:53 am - Srithar KASC: Maths note 🙃
+26/05/26, 6:55 am - Srithar KASC: Kojam kochikama photo eduthu anupiriya..! 😅
+26/05/26, 7:01 am - MUKESH.K.A: 🤐 marathe Poiten broo
+26/05/26, 7:01 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:02 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:03 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:03 am - MUKESH.K.A: Homework sums?
+26/05/26, 7:03 am - Srithar KASC: Important mattum bro
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:04 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:05 am - MUKESH.K.A: <Media omitted>
+26/05/26, 7:06 am - MUKESH.K.A: 2nd Unit aprma send pannata? Daa
+26/05/26, 8:16 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:16 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:16 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:17 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:18 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:19 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:20 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:20 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:20 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:20 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:23 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:23 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:23 am - MUKESH.K.A: <Media omitted>
+26/05/26, 8:23 am - MUKESH.K.A: <Media omitted>
+26/05/26, 6:07 pm - Srithar KASC: Nandrigal bro 🥹🙏
+26/05/26, 7:49 pm - Srithar KASC: <Media omitted>
+26/05/26, 7:57 pm - MUKESH.K.A: <Media omitted>
+26/05/26, 8:04 pm - Srithar KASC: <Media omitted>
+26/05/26, 8:05 pm - Srithar KASC: <Media omitted>
+26/05/26, 8:11 pm - MUKESH.K.A: <Media omitted>
+26/05/26, 8:12 pm - Srithar KASC: <Media omitted>
+26/05/26, 8:12 pm - MUKESH.K.A: <Media omitted>
+26/05/26, 8:13 pm - Srithar KASC: 😅
+26/05/26, 8:15 pm - Srithar KASC: <Media omitted>
+26/05/26, 8:16 pm - MUKESH.K.A: Polakurooo
+26/05/26, 8:16 pm - MUKESH.K.A: <Media omitted>
+26/05/26, 8:16 pm - Srithar KASC: Hmmmmm
+26/05/26, 8:17 pm - Srithar KASC: <Media omitted>
+26/05/26, 8:21 pm - MUKESH.K.A: Ama brooo
+26/05/26, 8:21 pm - MUKESH.K.A: <Media omitted>
+26/05/26, 8:21 pm - MUKESH.K.A: <Media omitted>
+28/05/26, 7:03 pm - Srithar KASC: <Media omitted>
+28/05/26, 7:04 pm - Srithar KASC: <Media omitted>
+28/05/26, 8:39 pm - MUKESH.K.A: Ellam mela irukuravan pathupan
+28/05/26, 8:39 pm - MUKESH.K.A: Ama
+28/05/26, 8:39 pm - MUKESH.K.A: Nee?
+29/05/26, 6:22 am - Srithar KASC: Naan um
+29/05/26, 8:37 pm - Srithar KASC: Bro
+29/05/26, 8:37 pm - Srithar KASC: 4th unit send pannu bro
+29/05/26, 8:55 pm - MUKESH.K.A: Broo Data mudichi
+29/05/26, 8:55 pm - MUKESH.K.A: 🤐
+29/05/26, 9:40 pm - Srithar KASC: <Media omitted>
+29/05/26, 9:40 pm - Srithar KASC: Aiaiyooooo 2 mark achum pakalam pathen
+09/06/26, 11:54 am - Srithar KASC: Bro
+09/06/26, 11:59 am - Srithar KASC: Namma college, boys college aah..! Mara poguthu bro..! 🙃
+09/06/26, 2:13 pm - MUKESH.K.A: Yen? Daa?
+09/06/26, 2:13 pm - MUKESH.K.A: Epdi?
+09/06/26, 2:31 pm - MUKESH.K.A: Director?
+09/06/26, 6:15 pm - Srithar KASC: Sun arts college la friend irukan Avan than sonnan
+09/06/26, 6:15 pm - Srithar KASC: 🥲
+09/06/26, 6:16 pm - Srithar KASC: Admission potten sonan
+09/06/26, 6:17 pm - Srithar KASC: Mam ellarum poranga pola..!😶
+09/06/26, 7:37 pm - MUKESH.K.A: Ethuku
+14/06/26, 4:23 pm - Srithar KASC: Bro
+14/06/26, 4:23 pm - Srithar KASC: First day beard vachittu varalama..! 🙃
+14/06/26, 4:43 pm - MUKESH.K.A: Therlya
+14/06/26, 4:43 pm - MUKESH.K.A: Seniors kita ketu parru
+15/06/26, 7:26 am - MUKESH.K.A: Ketiya ?
+15/06/26, 7:26 am - MUKESH.K.A: Ena soludraga?
+15/06/26, 8:29 am - Srithar KASC: Bro Theriyala soldranga 😶
+15/06/26, 9:05 am - MUKESH.K.A: Ena pananlam
+15/06/26, 9:27 am - Srithar KASC: Trimmer yeduthu varalama
+15/06/26, 9:50 am - MUKESH.K.A: Pesama full ha shave pannite vanthudalam
+16/06/26, 5:34 pm - Srithar KASC: Bro
+16/06/26, 5:35 pm - Srithar KASC: <Media omitted>
+16/06/26, 6:08 pm - MUKESH.K.A: Ohhhh
+16/06/26, 6:08 pm - MUKESH.K.A: Okay okay
+16/06/26, 6:09 pm - MUKESH.K.A: Already Boys Strength Athigam
+16/06/26, 6:09 pm - MUKESH.K.A: Epo ethu veraiya
+17/06/26, 10:32 am - Srithar KASC: 🤡
+17/06/26, 10:35 am - Srithar KASC: Nalaiku college
+17/06/26, 10:35 am - Srithar KASC: Mmmmm..... Avlo than!!
+17/06/26, 10:36 am - MUKESH.K.A: 🫩
+17/06/26, 10:39 am - MUKESH.K.A: Instructions ethvume varala inum
+17/06/26, 10:55 am - MUKESH.K.A: Dude call pannu uhh
+17/06/26, 11:36 am - Srithar KASC: Kettu sollu bro
+17/06/26, 2:30 pm - Srithar KASC: Avan nalaiku college soldran bro 🥲😭
+17/06/26, 2:31 pm - Srithar KASC: Ipa yentha mam ku call pandrathu Theriyaiyeh
+17/06/26, 7:32 pm - Srithar KASC: Bro
+17/06/26, 7:32 pm - Srithar KASC: 👋
+17/06/26, 9:04 pm - MUKESH.K.A: Solu bro
+18/06/26, 6:32 am - Srithar KASC: Naa oru 8.30 bus stand vanthuren
+23/06/26, 3:40 pm - Srithar KASC: Mukesh bhaiya oru doubt
+23/06/26, 3:42 pm - Srithar KASC: Python 5 unit syllabus mattum yezuthunuma, illa 5 unit coding theory fulla yezuthunuma😶
+23/06/26, 3:48 pm - MUKESH.K.A: No syllabus mattum tha
+23/06/26, 4:02 pm - Srithar KASC: Kojam nerathula sethuten
+23/06/26, 4:02 pm - Srithar KASC: Ipa than uyir lite ta varuthu
+23/06/26, 4:02 pm - MUKESH.K.A: 🤣
+23/06/26, 4:03 pm - MUKESH.K.A: Nalaiku na vara maten daaa
+23/06/26, 4:03 pm - MUKESH.K.A: Oru letter mattum eluthi kuduthuriya?
+23/06/26, 4:03 pm - Srithar KASC: Ok bhaiya but
+23/06/26, 4:04 pm - Srithar KASC: Letter kuduthalum fine kepangale
+23/06/26, 4:04 pm - Srithar KASC: Ama fine yethavathu change pannagala
+23/06/26, 4:05 pm - Srithar KASC: Susi, vignesh la leave pottanga fine keka ey illa
+23/06/26, 4:06 pm - Srithar KASC: So poitu va attendence kedaiyathu..! 👍
+23/06/26, 4:06 pm - MUKESH.K.A: Therlya daa
+23/06/26, 4:06 pm - MUKESH.K.A: Iruku daaa
+23/06/26, 4:07 pm - MUKESH.K.A: <Media omitted>
+23/06/26, 4:07 pm - Srithar KASC: <Media omitted>
+23/06/26, 4:11 pm - MUKESH.K.A: <Media omitted>
+23/06/26, 4:11 pm - Srithar KASC: Ok 🫡
+24/06/26, 5:04 pm - Srithar KASC: Ithu than inaku yehzuthi pottathu
+24/06/26, 5:04 pm - Srithar KASC: 
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+24/06/26, 5:04 pm - Srithar KASC: <Media omitted>
+29/06/26, 7:02 am - Srithar KASC: Bro
+29/06/26, 7:02 am - Srithar KASC: 
+29/06/26, 7:05 am - MUKESH.K.A: 
+30/06/26, 9:18 pm - Srithar KASC: Bro
+30/06/26, 9:39 pm - Srithar KASC: Maths la mean 1 individual, discrete, continue
+30/06/26, 9:40 pm - Srithar KASC: Avalothana bro
+30/06/26, 9:45 pm - MUKESH.K.A: 🫩
+30/06/26, 9:45 pm - MUKESH.K.A: Na full ah mudichiten
+30/06/26, 10:04 pm - Srithar KASC: Full la na
+30/06/26, 10:05 pm - MUKESH.K.A: full tha daa
+30/06/26, 10:05 pm - MUKESH.K.A: 9 sums yume
+30/06/26, 10:06 pm - Srithar KASC: IPO naanum 9 sums podanuma
+30/06/26, 10:30 pm - Srithar KASC: Python
+30/06/26, 10:36 pm - Srithar KASC: Test nalaika
+01/07/26, 6:58 am - MUKESH.K.A: Thrusday nu naikuren
+01/07/26, 8:17 pm - Srithar KASC: <Media omitted>
+02/07/26, 7:36 pm - Srithar KASC: Bhai, "pathu kilo kari Venum bhai"..!
+02/07/26, 7:37 pm - Srithar KASC: Top 10 events yezhuthi tiya bro
+02/07/26, 8:01 pm - MUKESH.K.A: Adichi thuku saami
+02/07/26, 8:01 pm - MUKESH.K.A: Inum illa bro
+02/07/26, 8:01 pm - MUKESH.K.A: Nee ethavathu pathiya?
+02/07/26, 8:51 pm - Srithar KASC: Like activity than pathen
+02/07/26, 8:51 pm - Srithar KASC: Break time entertainment pandra mari
+02/07/26, 8:53 pm - MUKESH.K.A: Vera?
+02/07/26, 8:55 pm - Srithar KASC: Marketing mathiri
+02/07/26, 8:58 pm - Srithar KASC: Illa cinematography
+02/07/26, 8:59 pm - MUKESH.K.A: Tech ku ethukum ena samatham?
+02/07/26, 8:59 pm - Srithar KASC: This message was deleted
+02/07/26, 8:59 pm - Srithar KASC: This message was deleted
+02/07/26, 9:02 pm - Srithar KASC: This message was deleted
+02/07/26, 9:02 pm - Srithar KASC: This message was deleted
+02/07/26, 9:03 pm - Srithar KASC: This message was deleted
+02/07/26, 9:06 pm - Srithar KASC: Puthusa think panna tech related ha vara matikuthu bro
+02/07/26, 9:53 pm - MUKESH.K.A: !?
+08/07/26, 8:31 pm - Srithar KASC: Tomorrow: money and song 🫡
+10/07/26, 7:28 am - Srithar KASC: Enna bro college kulla enter agitiya
+10/07/26, 7:29 am - Srithar KASC: Video mukiyum bigiluuuuu...
+10/07/26, 7:32 am - MUKESH.K.A: Illa bro
+10/07/26, 8:21 am - MUKESH.K.A: <Media omitted>
+10/07/26, 8:22 am - MUKESH.K.A: <Media omitted>
+10/07/26, 10:05 am - MUKESH.K.A: <Media omitted>
+10/07/26, 12:06 pm - MUKESH.K.A: <Media omitted>
+10/07/26, 3:47 pm - Srithar KASC: Veetuku vanthutu call pannu
+10/07/26, 5:33 pm - MUKESH.K.A: https://www.linkedin.com/posts/hackfusion2026-startuptn-hackathon-share-7481220353592016897-pL2H?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEkjLFQB2k_8FGF-OhApgrbuMGlNENz2zyE&utm_campaign=whatsapp
+10/07/26, 5:49 pm - Srithar KASC: Bro
+10/07/26, 5:50 pm - Srithar KASC: Maths tha RA
+10/07/26, 5:51 pm - Srithar KASC: Onum pricharnai illai Monday kasu eduthutu va revaluation podurom
+10/07/26, 5:51 pm - Srithar KASC: Onnum worry pannikatha bro
+10/07/26, 5:51 pm - MUKESH.K.A: Haan..!!!
+10/07/26, 5:51 pm - MUKESH.K.A: Nala tha daa eluthuna
+10/07/26, 5:52 pm - Srithar KASC: Ennaku 53 just pass naanum nalatha yezhuthune
+10/07/26, 5:53 pm - MUKESH.K.A: Nirmal ahh parru uhh deeiii
+10/07/26, 5:53 pm - MUKESH.K.A: Avan ena pathu tha eluthunahh daa
+10/07/26, 5:55 pm - Srithar KASC: Bhaiii girls ellam maths 99 98 97 eduthu vachi irukanga bro
+10/07/26, 5:55 pm - Srithar KASC: Ana boysuku kamiya potu irukanga
+10/07/26, 5:55 pm - MUKESH.K.A: Atha daa enkume Puriyala
+10/07/26, 5:55 pm - MUKESH.K.A: 🙃 ellame Nala tha eluthuna
+10/07/26, 5:56 pm - MUKESH.K.A: 75/75 potu vachi iruken daaa
+10/07/26, 5:56 pm - MUKESH.K.A: Ena daa deiiii
+10/07/26, 5:56 pm - Srithar KASC: Intha Thiruvallur university eh oru thevi**** university da
+10/07/26, 5:57 pm - Srithar KASC: Apadi than ponna vatti panaga
+10/07/26, 5:57 pm - Srithar KASC: Avangaluku kasu than mukium
+10/07/26, 5:58 pm - Srithar KASC: 450 revaluation potta pass aiduva
+10/07/26, 6:00 pm - MUKESH.K.A: Ryt Monday college laa tha tharanuma?
+10/07/26, 6:01 pm - MUKESH.K.A: Luss ku brooo avanuga
+10/07/26, 6:01 pm - Srithar KASC: Portal open ana soldren
+10/07/26, 6:01 pm - Srithar KASC: Neeyeh potru
+10/07/26, 6:02 pm - MUKESH.K.A: Portal link vachi iruka?
+10/07/26, 6:02 pm - MUKESH.K.A: Na ula pona pogala daa
+10/07/26, 6:03 pm - Srithar KASC: Naan pakuren
+10/07/26, 6:06 pm - Srithar KASC: Server busya Iruku night 9 maniku mela freeya irukum pathu soldren
+10/07/26, 6:09 pm - Srithar KASC: Bro ponna vatti naaum,suraj nalla than yezhuthi iruthom ana lum fail pottutan
+10/07/26, 6:10 pm - Srithar KASC: Intha vatti Neeyum nallatha yezhuthi Iruka athe mari fail pottu irukan <This message was edited>
+10/07/26, 6:11 pm - MUKESH.K.A: 🫂
+10/07/26, 6:46 pm - Srithar KASC: Nalaiku portal open ana naane pannita
+10/07/26, 6:47 pm - MUKESH.K.A: 🤝🏻✨
+11/07/26, 7:27 am - Srithar KASC: Bro
+11/07/26, 8:25 am - MUKESH.K.A: Solu bro
+11/07/26, 8:25 am - Srithar KASC: Date of birth correct sollu
+11/07/26, 8:26 am - MUKESH.K.A: 25.01.2008
+11/07/26, 8:29 am - Srithar KASC: Login adichidu bro
+11/07/26, 8:29 am - Srithar KASC: Maths thana
+11/07/26, 8:29 am - MUKESH.K.A: Ama
+11/07/26, 8:30 am - Srithar KASC: <Media omitted>
+11/07/26, 8:31 am - Srithar KASC: Nala pathu sollu bro
+11/07/26, 8:32 am - MUKESH.K.A: 23UECS22B
+11/07/26, 8:32 am - MUKESH.K.A: Atha bro..!! Mn
+11/07/26, 8:32 am - MUKESH.K.A: Apo neeya poturiya? Revaluation!!!
+11/07/26, 8:32 am - MUKESH.K.A: Na unku ₹450 gpay panniduren..!!!
+11/07/26, 8:32 am - Srithar KASC: Mm
+11/07/26, 8:32 am - MUKESH.K.A: Illana link send pannu na poturen
+11/07/26, 8:33 am - Srithar KASC: Nane paniduren
+11/07/26, 8:33 am - MUKESH.K.A: Okay daa..! Konjum pathu crt ah potutu nahh..!!!
+11/07/26, 8:33 am - MUKESH.K.A: Na gpay panniduren unku
+11/07/26, 8:36 am - MUKESH.K.A: Atha portal link send pannu uh..!!! Nanum oru vatik check pannikuren
+11/07/26, 8:36 am - MUKESH.K.A: Etha number ku gpay pannatum?
+11/07/26, 8:38 am - Srithar KASC: <Media omitted>
+11/07/26, 8:39 am - Srithar KASC: 🫡
+11/07/26, 8:49 am - MUKESH.K.A: !?
+11/07/26, 9:01 am - Srithar KASC: https://coe.tvu.edu.in/index.php
+11/07/26, 9:04 am - MUKESH.K.A: <Media omitted>
+11/07/26, 9:40 am - Srithar KASC: Server busy bro!!
+11/07/26, 11:05 am - MUKESH.K.A: Call me bro
+11/07/26, 11:08 am - MUKESH.K.A: *Name*: Sanjeev D
+
+*Qualification*: B.E., PGDM (IT & Marketing)
+
+*Designation*: Associate Manager
+
+*Company & Address*: Ernst & Young Global Delivery Services (E&Y GDS), Bagmane World Technology Centre, Mahadevapura,  Bangalore - 560048
+
+*email*: sanjeevdofficial@gmail.com
+11/07/26, 11:08 am - MUKESH.K.A: Proposing Topic
+
+*Artificial Intelligence: An Emerging Trend in the Digital Era*
+11/07/26, 11:08 am - MUKESH.K.A: <Media omitted>
+11/07/26, 11:08 am - MUKESH.K.A: Reference
+11/07/26, 12:54 pm - MUKESH.K.A: Dude call pannu
+11/07/26, 2:10 pm - MUKESH.K.A: Send pannu broo
+11/07/26, 2:10 pm - Srithar KASC: <Media omitted>
+11/07/26, 2:11 pm - MUKESH.K.A: <Media omitted>
+11/07/26, 2:11 pm - MUKESH.K.A: <Media omitted>
+11/07/26, 2:31 pm - MUKESH.K.A: ?
+11/07/26, 2:44 pm - Srithar KASC: This message was deleted
+11/07/26, 2:52 pm - Srithar KASC: <Media omitted>
+11/07/26, 4:57 pm - MUKESH.K.A: Bro mathitu send pannuriya?
+11/07/26, 5:50 pm - Srithar KASC: Mm
+11/07/26, 5:54 pm - Srithar KASC: <Media omitted>
+11/07/26, 5:54 pm - Srithar KASC: Bro antha A mattum fix panniriya
+11/07/26, 5:55 pm - Srithar KASC: Claude time mudichiruchi
+12/07/26, 6:43 pm - Srithar KASC: Bro ennaku python tamil assignment send pannu bro
+12/07/26, 6:43 pm - Srithar KASC: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:44 pm - Srithar KASC: Root
+12/07/26, 6:45 pm - Srithar KASC: <Media omitted>
+12/07/26, 6:45 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:45 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:46 pm - Srithar KASC: <Media omitted>
+12/07/26, 6:46 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:46 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:46 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:46 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+12/07/26, 6:47 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 2:23 pm - MUKESH.K.A: 24525U18058
+15/5/2008
+15/07/26, 2:24 pm - MUKESH.K.A: Un number ku gpay panniduren broo
+15/07/26, 2:24 pm - MUKESH.K.A: Poovarasi
+15/07/26, 3:02 pm - Srithar KASC: 👍
+15/07/26, 3:02 pm - Srithar KASC: Subject code
+15/07/26, 3:04 pm - MUKESH.K.A: You deleted this message
+15/07/26, 3:05 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 3:08 pm - Srithar KASC: Enna subject bro ithu
+15/07/26, 3:08 pm - Srithar KASC: 🤦
+15/07/26, 3:17 pm - Srithar KASC: <Media omitted>
+15/07/26, 4:27 pm - MUKESH.K.A: Atha mariii code yee illaye?
+15/07/26, 4:52 pm - MUKESH.K.A: 23UlE20
+15/07/26, 6:26 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 6:29 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 6:31 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 6:37 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 6:55 pm - MUKESH.K.A: Dude vanthuducha?
+15/07/26, 6:59 pm - Srithar KASC: <Media omitted>
+15/07/26, 6:59 pm - Srithar KASC: Details sonninga na mmmmm
+15/07/26, 6:59 pm - Srithar KASC: Aprm
+15/07/26, 7:00 pm - Srithar KASC: First ok va
+15/07/26, 7:35 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 7:43 pm - Srithar KASC: ??
+15/07/26, 7:44 pm - Srithar KASC: This message was deleted
+15/07/26, 8:33 pm - Srithar KASC: <Media omitted>
+15/07/26, 8:58 pm - MUKESH.K.A: <Media omitted>
+15/07/26, 8:58 pm - MUKESH.K.A: Mudichi vitaga
+15/07/26, 9:15 pm - Srithar KASC: Observation yezhuthiya
+15/07/26, 9:15 pm - MUKESH.K.A: Illa bro
+15/07/26, 9:15 pm - MUKESH.K.A: Inga poster design pannuve ehh time seriya poiduvhu
+15/07/26, 9:16 pm - Srithar KASC: Entha pakam yezhutha songanga
+15/07/26, 9:17 pm - Srithar KASC: This message was deleted
+15/07/26, 9:22 pm - Srithar KASC: <Media omitted>
+16/07/26, 6:53 pm - MUKESH.K.A: Poovarasi ku revaluation apply pannitiya daah?
+17/07/26, 6:11 am - MUKESH.K.A: ?
+17/07/26, 6:11 am - MUKESH.K.A: Inku tha last brooo
+17/07/26, 2:21 pm - MUKESH.K.A: Soldra.!?
+17/07/26, 8:27 pm - Srithar KASC: Ennathu
+02/08/26, 7:33 pm - Srithar KASC: Bro question
+02/08/26, 7:33 pm - Srithar KASC: Iruka!!
+02/08/26, 7:57 pm - MUKESH.K.A: Nope
+02/08/26, 7:57 pm - MUKESH.K.A: No questions broo
+02/08/26, 8:15 pm - MUKESH.K.A: Define Internet.
+What is an IP address?
+What is a Web Browser?
+Define WWW.
+What is a Search Engine?
+02/08/26, 8:15 pm - MUKESH.K.A: Explain the growth and evolution of the Internet.
+Describe the anatomy of the Internet.
+Explain the different types of Internet connection.
+Discuss the features and uses of Web Browsers.
+Explain Search Engine and different search techniques.
+02/08/26, 8:15 pm - MUKESH.K.A: Explain the history, growth, and development of the Internet with a neat diagram.
+Describe the architecture (anatomy) of the Internet and explain the role of ISP, IP, DNS, Routers, and Servers.
+Explain Internet services and its advantages.
+03/08/26, 5:58 pm - MUKESH.K.A: <Media omitted>
+03/08/26, 5:58 pm - MUKESH.K.A: Dude payment pannitu Screenshot Aduthu vachiko
+03/08/26, 5:58 pm - MUKESH.K.A: Atha screenshot ahh mohan ku forward pannidu
+03/08/26, 5:59 pm - MUKESH.K.A: Mam few mins laa amount send pandra nu sonaga
+03/08/26, 5:59 pm - MUKESH.K.A: Thx dude
+03/08/26, 5:59 pm - Srithar KASC: Mm
+03/08/26, 5:59 pm - Srithar KASC: Wtf😒
+03/08/26, 6:00 pm - MUKESH.K.A: 😂
+03/08/26, 6:00 pm - MUKESH.K.A: Whatever bro 🤝🏻
+03/08/26, 6:02 pm - Srithar KASC: <Media omitted>
+03/08/26, 6:03 pm - Srithar KASC: <Media omitted>
+03/08/26, 6:25 pm - Srithar KASC: Bro send panniten
+03/08/26, 6:29 pm - Srithar KASC: Mohan number enna bro
+03/08/26, 7:05 pm - MUKESH.K.A: +91 76397 63620
+03/08/26, 9:21 pm - Srithar KASC: Bro ennaku beard vacha Nala iruka or illa na Nala Iruku your suggestion!!
+03/08/26, 9:27 pm - MUKESH.K.A: Nala Iruku brooo
+05/08/26, 10:37 am - Srithar KASC: https://adroittechnologiescom-my.sharepoint.com/:x:/g/personal/elakkiya_adroittechnologies_in/IQDVNn4B0AQYQpojj9Zc3uiFAfdZebQJ2vX-0e-xH9RwL0E?e=5sbG9L
+05/08/26, 10:37 am - Srithar KASC: https://teams.microsoft.com/meet/448252375180560?p=2yiR3WqU7e13seGTAY
+06/08/26, 2:56 pm - Srithar KASC: Class enna panaga?
+06/08/26, 2:59 pm - Srithar KASC: Epadi pochi
+06/08/26, 3:47 pm - MUKESH.K.A: Ena broo varala?
+06/08/26, 3:47 pm - MUKESH.K.A: 16Members inku Absent brooo
+06/08/26, 3:48 pm - MUKESH.K.A: Do you know something
+06/08/26, 3:48 pm - MUKESH.K.A: We got a permission to conduct the hackthons!
+06/08/26, 3:48 pm - MUKESH.K.A: Nalaiku proposal submit panna soli irukaga
+06/08/26, 4:37 pm - Srithar KASC: 🥳
+06/08/26, 4:45 pm - MUKESH.K.A: <Media omitted>
+06/08/26, 5:02 pm - Srithar KASC: Nalavey panni iruka bro 👊
+06/08/26, 8:04 pm - MUKESH.K.A: <Media omitted>
+06/08/26, 8:04 pm - MUKESH.K.A: <Media omitted>
+06/08/26, 8:04 pm - MUKESH.K.A: <Media omitted>
+08/08/26, 7:33 am - Srithar KASC: Meme Creation
+08/08/26, 7:33 am - MUKESH.K.A: Inum naraya list out pannu nama discuss pannalam
+08/08/26, 7:33 am - Srithar KASC: Connections Game
+08/08/26, 7:34 am - Srithar KASC: Mm wait send panndren
+08/08/26, 7:35 am - MUKESH.K.A: Haan
+08/08/26, 7:38 am - Srithar KASC: Tech Dumb
+08/08/26, 7:39 am - Srithar KASC: Photo or video editing with Ai
+09/08/26, 8:17 pm - MUKESH.K.A: Heyy bro idea?
+09/08/26, 8:17 pm - MUKESH.K.A: Enku list out pannu
+09/08/26, 8:17 pm - MUKESH.K.A: Na proposal ready panniduren
+09/08/26, 8:20 pm - Srithar KASC: Mm day 1
+1.quiz
+2.connect image 
+3.find error 
+4.prompt
+5.tech dumb
+09/08/26, 8:20 pm - Srithar KASC: Day 2
+1.web page with ài
+2.Logo identifiers 
+3.meme creation 
+4.ai or not
+5.give price for win team
+10/08/26, 7:24 am - MUKESH.K.A: <Media omitted>
+10/08/26, 6:17 pm - Srithar KASC: Bro
+10/08/26, 6:17 pm - Srithar KASC: Nalaika sports??
+10/08/26, 6:24 pm - MUKESH.K.A: Hann
+10/08/26, 7:19 pm - Srithar KASC: T- shirt shorts eduthutu varanuma 🫠
+10/08/26, 8:00 pm - MUKESH.K.A: Haan
+10/08/26, 8:03 pm - Srithar KASC: ??
+10/08/26, 8:08 pm - MUKESH.K.A: ?
+11/08/26, 6:59 pm - Srithar KASC: <Media omitted>
+11/08/26, 6:59 pm - Srithar KASC: Bhaiya maths
+11/08/26, 7:02 pm - MUKESH.K.A: <Media omitted>
+11/08/26, 7:11 pm - Srithar KASC: Okay sir 🫡
+12/08/26, 6:31 am - MUKESH.K.A: <Media omitted>
+12/08/26, 7:40 am - Srithar KASC: Bro
+12/08/26, 7:40 am - Srithar KASC: It's very wrong bro
+12/08/26, 7:03 pm - Srithar KASC: This message was deleted
+12/08/26, 7:04 pm - Srithar KASC: <Media omitted>
+12/08/26, 7:35 pm - MUKESH.K.A: <Media omitted>
+12/08/26, 7:36 pm - MUKESH.K.A: <Media omitted>
+12/08/26, 7:58 pm - Srithar KASC: Okay bro 👍
+12/08/26, 7:59 pm - Srithar KASC: <Media omitted>
+12/08/26, 7:59 pm - Srithar KASC: <Media omitted>
+12/08/26, 8:47 pm - MUKESH.K.A: I can understand bro 🤝🏻✨
+13/08/26, 4:09 pm - Srithar KASC: https://youtube.com/shorts/6cbyKVxbbx8?si=afpW90Ub-cFcswku
+13/08/26, 4:10 pm - Srithar KASC: Squid game pathu irukala bro
+13/08/26, 4:38 pm - MUKESH.K.A: Vera ethavathu?
+13/08/26, 5:57 pm - MUKESH.K.A: Anyother buddy?
+13/08/26, 5:58 pm - MUKESH.K.A: I need more stuffs like that
+13/08/26, 6:38 pm - Srithar KASC: Ok bro 👍
+13/08/26, 6:42 pm - Srithar KASC: <Media omitted>
+13/08/26, 6:44 pm - Srithar KASC: This message was deleted
+13/08/26, 6:45 pm - Srithar KASC: <Media omitted>
+13/08/26, 7:22 pm - MUKESH.K.A: Haan
+13/08/26, 7:22 pm - MUKESH.K.A: <Media omitted>
+13/08/26, 7:23 pm - Srithar KASC: <Media omitted>
+13/08/26, 7:28 pm - MUKESH.K.A: <Media omitted>
+13/08/26, 7:40 pm - Srithar KASC: Okay bro 👍
+13/08/26, 8:20 pm - Srithar KASC: <Media omitted>
+14/08/26, 4:41 pm - Srithar KASC: Bhaiya rules
+14/08/26, 4:55 pm - MUKESH.K.A: Sridhar unoda Events ku neeya rules set pannu
+14/08/26, 4:56 pm - MUKESH.K.A: Last ah nama rules ahh namale review panni pakkalam
+17/08/26, 11:06 am - Srithar KASC: Bro
+17/08/26, 11:07 am - Srithar KASC: Thiruvanamalai post office enga bro Iruku..!
+17/08/26, 11:22 am - MUKESH.K.A: Bridge eramothu oru petrol bunk irukulaa
+17/08/26, 11:22 am - MUKESH.K.A: Athuku pakathu la oru police station irukum
+17/08/26, 11:22 am - MUKESH.K.A: Athuku pakathu la
+17/08/26, 11:23 am - MUKESH.K.A: Tha head office Iruku (Post office)
+17/08/26, 11:25 am - Srithar KASC: <Media omitted>
+17/08/26, 11:25 am - Srithar KASC: Oii tamil freeya irukana
+17/08/26, 11:28 am - MUKESH.K.A: Haan summa tha iruka
+17/08/26, 11:28 am - MUKESH.K.A: Reels pathutu iruken
+17/08/26, 11:28 am - MUKESH.K.A: Yesss
+17/08/26, 11:36 am - Srithar KASC: Bro college mudichitu free ya irupiya..!
+17/08/26, 11:37 am - Srithar KASC: Enn kooda post office varaikum vantha Nala irukum
+17/08/26, 7:02 pm - Srithar KASC: <Media omitted>
+17/08/26, 7:04 pm - Srithar KASC: components kedaikirathu than bro kastam..!
+17/08/26, 7:07 pm - MUKESH.K.A: <Media omitted>
+17/08/26, 7:08 pm - MUKESH.K.A: <Media omitted>
+17/08/26, 7:29 pm - Srithar KASC: Ok bro 👍
+18/08/26, 7:14 am - MUKESH.K.A: https://youtu.be/89UyV-QNRFE?si=IEfmApiH3Nu0m0PT

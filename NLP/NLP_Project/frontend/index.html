@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Chat Analyzer</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta name="description"
+        content="A powerful tool to unlock deep insights and flirt probabilities from your WhatsApp chats using NLP.">
+</head>
+
+<body>
+    <div class="background">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+
+        <!-- HEADER -->
+        <header>
+            <h1>Chat <span class="highlight">Analyzer</span></h1>
+            <p>Unlock deep insights and flirt probability from your WhatsApp chats</p>
+        </header>
+
+        <!-- UPLOAD SECTION -->
+        <section id="upload-section" class="glass-panel">
+            <div id="dropzone" class="dropzone">
+                <div class="drop-icon">
+                    <svg viewBox="0 0 24 24" width="48" height="48" stroke="currentColor" stroke-width="2" fill="none"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="17 8 12 3 7 8"></polyline>
+                        <line x1="12" y1="3" x2="12" y2="15"></line>
+                    </svg>
+                </div>
+                <h2>Upload WhatsApp Chat</h2>
+                <p>Drag and drop your .txt file here, or click to browse</p>
+                <input type="file" id="file-input" accept=".txt" hidden>
+                <button id="browse-btn" class="primary-btn">Browse File</button>
+            </div>
+
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+                <p>Analyzing conversation using NLP models...</p>
+                <p class="fade-text">This might take a moment depending on the chat size</p>
+            </div>
+        </section>
+
+        <!-- DASHBOARD (Hidden Initially) -->
+        <section id="dashboard" class="hidden">
+            <!-- OVERVIEW CARDS -->
+            <div class="dashboard-header">
+                <h2>Analysis Dashboard</h2>
+                <button id="reset-btn" class="secondary-btn">Analyze New Chat</button>
+            </div>
+
+            <div class="stats-grid">
+                <!-- Flirt Score Card (Prominent) -->
+                <div class="stat-card glass-panel premium-card">
+                    <h3>Overall Flirt Score</h3>
+                    <div id="flirt-score" class="score-value">0%</div>
+                    <div class="progress-bar">
+                        <div id="flirt-progress" class="progress-fill"></div>
+                    </div>
+                </div>
+
+                <div class="stat-card glass-panel">
+                    <h3>Messages Analyzed</h3>
+                    <div id="total-messages" class="stat-value">0</div>
+                </div>
+
+                <div class="stat-card glass-panel">
+                    <h3>Media Shared</h3>
+                    <div id="total-media" class="stat-value">0</div>
+                </div>
+
+                <div class="stat-card glass-panel">
+                    <h3>Total Calls</h3>
+                    <div id="total-calls" class="stat-value">0</div>
+                </div>
+            </div>
+
+            <!-- CHAT HIGHLIGHTS (Flirt Messages) -->
+            <div class="panel-grid">
+
+                <div class="glass-panel flex-panel">
+                    <h3>Top Flirty Messages</h3>
+                    <div id="flirt-messages-list" class="messages-list">
+                        <!-- Messages injected here via JS -->
+                    </div>
+                </div>
+
+                <div class="glass-panel flex-panel">
+                    <h3>Raw Analytics Data</h3>
+                    <div class="json-viewer" id="json-viewer">
+                        <!-- Extra data structure if needed -->
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
