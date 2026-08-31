@@ -18,6 +18,7 @@ A structured collection of my AI/ML learning journey — covering Statistics, Da
 | `08_Advanced_ML` | Ensemble Methods, Advanced Pipelines |
 | `09_Deep Learning` | CNN,ANN (Hand Written Dataset),Object_Tracking |
 |`10_Time_Series_Analysis`|AR,MA,ARIMA,ARMA Algorithms Used in TataCoffee Stock Dataset and Done EDA Analysis |
+|`11_NLP`| Counter_Vector,TF_IDF,NLP_Project[Whatsapp-Chat-Analyzer] |
 
 ---
 
